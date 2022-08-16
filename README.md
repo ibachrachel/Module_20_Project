@@ -16,4 +16,4 @@ Circle: The member in the circle role will create a mockup of a database with a 
 
 X: The member in the X role will decide which technologies will be used for each step of the project.
 
-- 
+- Teddi
