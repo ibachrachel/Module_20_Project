@@ -7,13 +7,13 @@
 
 - Reason for Topic: Changes to the environment should be monitored through data tracking, so that proper precautions can be taken to reduce climate change and improve the ecological balances. 
 
-- Description of Data Source: CDP Dataset, includes responses to three surveys for the years of 2018-2020
+- Description of Data Source: CDP Dataset, includes responses to three surveys for the years of 2018-2020. The data files are as follows: 
 1. corporate climate change disclosures
-2. coroporate water security disclosures
+2. corporate water security disclosures
 3. disclosures from cities
 
-- Questions to Answer
-- 
+*Questions to Answer*
+ 
 a. How are cities and corporations differently reporting their contribution to climate change? 
 
 b. Are they reporting climate change in similar levels? 
