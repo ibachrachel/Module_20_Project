@@ -13,8 +13,11 @@
 3. disclosures from cities
 
 - Questions to Answer
+- 
 a. How are cities and corporations differently reporting their contribution to climate change? 
+
 b. Are they reporting climate change in similar levels? 
+
 c. Out of them both, is there a way that they might be able to work together to solve problems? 
 
 ## GitHub
