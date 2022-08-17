@@ -24,11 +24,13 @@ c. Out of them both, is there a way that they might be able to work together to 
 Communication will take place through the Slack chat and requires each group member to contribute to the conversation daily. 
 In the case of emergency, the member will be contacted through their personal email. 
 
-*Group Roles*
+*Branching*
 
 Each group member has made a branch that they will submit changes from, which are then merged to the main. Different topics and actions will be seperated via new branches being made. Only functional code, documentation, and resources will be merged directly with the main immediately. 
 
 ------------------------------------------------------
+*Group Roles*
+
 Square: The team member in the square role will be responsible for the repository. 
 
 - Rachel 
