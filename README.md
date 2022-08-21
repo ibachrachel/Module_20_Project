@@ -3,29 +3,30 @@
 
 ## Presentation 
 
-- Selected Topic: Environmental Changes
+- Selected Topic: Life Expectancy
 
-- Reason for Topic: Changes to the environment should be monitored through data tracking, so that proper precautions can be taken to reduce climate change and improve the ecological balances. 
+- Reason for Topic: Throughout the centuries, life expectancy has increased due to improvements made to the environment in which a population lives in. This increase in life expectancy can be accounted for be analyzing factors that might contribute to a healthier life, such as economical factors, social factors, and mortality factors. 
 
-- Description of Data Source: CDP Dataset, includes responses to three surveys for the years of 2018-2020. The data files are as follows: 
-1. corporate climate change disclosures
-2. corporate water security disclosures
-3. disclosures from cities
+- Description of Data Source: Both datasets come from the World Health Organization (WHO) and they cover the most recent health statistics of the world. One dataset  includes various indicators of health and the percentages of individuals with access to these factors. The second dataset includes information about how life expectancy has increased or decreased in countries around the world. 
+
+a. Life Expectancy (WHO) https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who 
+
+b. World Health Statistics 2020 https://www.kaggle.com/datasets/utkarshxy/who-worldhealth-statistics-2020-complete?select=safelySanitization.csv
 
 *Questions to Answer*
  
-a. How are cities and corporations differently reporting their contribution to climate change? 
+a. Which countries have an increase in life expectancy? Which countries did not?
 
-b. Are they reporting climate change in similar levels? 
+b. Out of the countries with life expectancy changes, which factors affected this statistical the most?
 
-c. Out of them both, is there a way that they might be able to work together to solve problems? 
+c. Going forward, humanitarian efforts can be focused on what areas of the world? And, what factors showed the most effect on world health. 
 
 ## GitHub
 
 *Communication Protocols*
 
-Communication will take place through the Slack chat and requires each group member to contribute to the conversation daily. 
-In the case of emergency, the member will be contacted through their personal email. 
+Communication will take place through the Slack chat and requires each group member to contribute to the conversation regularly. 
+In the case of emergency, the member will be contacted through their personal email. Everyone shall clearly communicate what they plan to work on and complete between class meetings. 
 
 *Branching*
 
