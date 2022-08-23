@@ -5,7 +5,9 @@
 - The server will be linked to PgAdmin database.
 
 
-## Schema Diagram Code
+## Schema Diagram 
+
+![Schema](https://github.com/ibachrachel/Module_20_Project/blob/SteveZ/Resources/Database/Schema.jpg)
 
 Basic_Handwashing
 - 
