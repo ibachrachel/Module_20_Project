@@ -7,25 +7,25 @@
 
 ## Schema Diagram Code
 
-`Basic_Handwashing
+Basic_Handwashing
 - 
-Year int PK FK >- LE_DATA.Year
+`Year int PK FK >- LE_DATA.Year
 Country varchar PK FK >- LE_DATA.Country
 Total real
 Rural real
 Urban real`
 
-`Basic_Drinking_Water
+Basic_Drinking_Water
 -
-Year int PK FK >- LE_DATA.Year
+`Year int PK FK >- LE_DATA.Year
 Country varchar PK FK >- LE_DATA.Country
 Total real
 Rural real
 Urban real`
 
-`LE_DATA
+LE_DATA
 -
-Year int PK
+`Year int PK
 Country varchar PK
 GDP real
 LE real
@@ -34,17 +34,17 @@ Alcohol real
 Shooling real
 BMI real`
 
-`Basic_Sanitation
+Basic_Sanitation
 -
-Year int PK FK >- LE_DATA.Year
+`Year int PK FK >- LE_DATA.Year
 Country varchar PK FK >- LE_DATA.Country
 Total real
 Rural real
 Urban real`
 
-`Unsafe_WASH_Morality
+Unsafe_WASH_Morality
 -
-Year int PK FK >- LE_DATA.Year
+`Year int PK FK >- LE_DATA.Year
 Country varchar PK FK >- LE_DATA.Country
 Male real
 Female real
