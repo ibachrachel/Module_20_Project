@@ -65,3 +65,17 @@ X: The member in the X role will decide which technologies will be used for each
 ## Dashboard
 
 - no dashboard required (yet)
+
+
+# Technologies Used
+## Data Cleaning and Analysis
+Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python or R, for additional statistical analysis. 
+
+## Database Storage
+AWS is the database we intend to use, and we will integrate pgAdmin to display the data.
+
+## Machine Learning
+We will be doing supervised machine learning, utilizing multiple linear regression to predict life expectancy based on a variety of inputs. Tidyverse and ggplot will be used in R to work on the analysis. 
+
+## Dashboard
+In addition to using a javascript template, we will also Tableau for a fully functioning and interactive dashboard. It will be hosted on GitHub pages.
