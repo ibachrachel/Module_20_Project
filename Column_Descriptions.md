@@ -38,14 +38,15 @@
 ## basic_sani.csv
 "Basic_Sanitation" denotes % of the Population using at least basic sanitation services
 
+## sani_service.csv
+"Sani_Service" denotes % of the Population using safe sanitation services
+
 ## drinking_water.csv
 "Drinking_Water" denotes % of the Population using at least basic drinking water services
 
 ## hand_washing.csv
 "Hand_Washing" denotes % of the Population with basic handwashing facilities at home
 
-## sani_service.csv
-"Sani_Service" denotes % of the Population using at least basic sanitation services
 
 ## emissions.csv
 "Emissions" denotes CO2 emissions (in metric tons per capita)
