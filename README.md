@@ -13,6 +13,9 @@ a. Life Expectancy (WHO) https://www.kaggle.com/datasets/kumarajarshi/life-expec
 
 b. World Health Statistics 2020 https://www.kaggle.com/datasets/utkarshxy/who-worldhealth-statistics-2020-complete?select=safelySanitization.csv
 
+![World Map Tableau](https://user-images.githubusercontent.com/102566199/186821474-4f7853fe-8a25-47e5-909b-2ee8373aba63.png)
+
+
 *Questions to Answer*
  
 a. Which countries have an increase in life expectancy? Which countries did not?
