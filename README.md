@@ -21,11 +21,23 @@ b. Out of the countries with life expectancy changes, which factors affected thi
 
 c. Going forward, humanitarian efforts can be focused on what areas of the world? And, what factors showed the most effect on world health. 
 
+#### Resources
+
+- Software: Jupyter Notebook, Tableau 2022.1, Google Slides, Git Bash, Slack, R
+
+- Languages: Python 3.7
+
+- Libraries: Pandas
+
+- Machine Learning Models: Multiple Linear Regression
+
+- Database: postgreSQL, pgAdmin, AWS
+
 ## GitHub
 
 *Communication Protocols*
 
-Communication will take place through the Slack chat and requires each group member to contribute to the conversation regularly. 
+Communication will take place through the Slack chat and requires each group member to contribute to the conversation regularly. Project meetings occur every Monday and Wednesday from 5 pm - 7 pm on weekdays.  
 In the case of emergency, the member will be contacted through their personal email. Everyone shall clearly communicate what they plan to work on and complete between class meetings. 
 
 *Branching*
@@ -62,10 +74,7 @@ X: The member in the X role will decide which technologies will be used for each
 - Sample data that mimics the expected final database structure or schema
 - Draft machine learning model is connected to the provisional database
 
-## Dashboard
-
-- no dashboard required (yet)
-
+![Database Schema](https://user-images.githubusercontent.com/102566199/186817825-14790d50-8761-49b7-93c8-703cc23aac0c.png)
 
 ## Technologies Used
 
@@ -85,3 +94,4 @@ We will be doing supervised machine learning, utilizing multiple linear regressi
 
 In addition to using a javascript template, we will also Tableau for a fully functioning and interactive dashboard. It will be hosted on GitHub pages.
 
+![Current Webpage](https://user-images.githubusercontent.com/102566199/186820770-9eef7019-acc3-45ad-b236-ee10b6876c04.png)
