@@ -68,3 +68,8 @@ X: The member in the X role will decide which technologies will be used for each
 ## Dashboard
 
 - no dashboard required (yet)
+
+
+## Project Timeline
+
+![Project_Timeline](https://user-images.githubusercontent.com/102566199/187097436-851339f6-3102-4f8c-9c02-b3678c454c93.png)
