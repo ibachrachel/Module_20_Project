@@ -5,7 +5,7 @@
 
 - Selected Topic: Life Expectancy
 
-- Reason for Topic: Throughout the centuries, life expectancy has increased due to improvements made to the environment in which a population lives in. This increase in life expectancy can be accounted for be analyzing factors that might contribute to a healthier life, such as economical factors, social factors, and mortality factors. 
+- Reason for Topic: Throughout the centuries, life expectancy has increased due to improvements made to the environment in which a population lives in. This increase in life expectancy can be accounted for by analyzing factors that might contribute to a healthier life, such as economical factors, social factors, and mortality factors. 
 
 - Description of Data Source: Both datasets come from the World Health Organization (WHO) and they cover the most recent health statistics of the world. One dataset  includes various indicators of health and the percentages of individuals with access to these factors. The second dataset includes information about how life expectancy has increased or decreased in countries around the world. 
 
@@ -20,6 +20,11 @@ a. Which countries have an increase in life expectancy? Which countries did not?
 b. Out of the countries with life expectancy changes, which factors affected this statistical the most?
 
 c. Going forward, humanitarian efforts can be focused on what areas of the world? And, what factors showed the most effect on world health. 
+
+- Data exploration: 
+
+
+- Analysis
 
 #### Resources
 
