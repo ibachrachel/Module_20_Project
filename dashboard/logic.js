@@ -22,12 +22,12 @@ streets.addTo(map);
 
 
 // Get data from countries.js
-let cityData = cities;
+let countryData = countries;
 
-// Loop through the cities array and create one marker for each city.
-cityData.forEach(function(city) {
-  console.log(city)
-  L.marker(city.location)
-  .bindPopup("<h2>" + city.city + ", " + city.state + "</h2> <hr> <h3>Population " + city.population.toLocaleString() + "</h3>")
+// Loop through the cities array and create one marker for each country.
+countryData.forEach(function(country) {
+  console.log(country)
+  L.marker(country.location)
+  .bindPopup("<h2>" + country.country + "</h2> <hr> <h3> Life Expectancy " + country.life_expectancy + "</h3> <hr> <h3> Population " + country.population.toLocaleString() + "</h3>  <hr> <h3> GDP $" + country.gdp.toLocaleString() + "</h3>" )
 .addTo(map);
 });
