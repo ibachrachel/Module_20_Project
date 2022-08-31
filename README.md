@@ -70,7 +70,8 @@ X: The member in the X role will decide which technologies will be used for each
 
 ## Dashboard
 
-- no dashboard required (yet)
+- Google Slides, Tableau, and webpage
+[Tableau Public Link](https://public.tableau.com/views/CapstoneProject_16619160092110/Storyboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
 
 
 ## Project Timeline
