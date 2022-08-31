@@ -21,6 +21,7 @@ body,
   padding: 0;
   background-color: rgb(39, 40, 46);
   color: white;
+  max-width: 2000px;
   padding-left: 8em;
   padding-right: 8em;
   margin: 0;
