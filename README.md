@@ -67,15 +67,31 @@ X: The member in the X role will decide which technologies will be used for each
 - takes in data from provisional database
 - outputs label for input data
 
+a. Preliminary Data Preprocessing: The null values were really causing the model to not extremely reliable. The first try gave us an extremely high value of accuracy, but there were too many rows that had been dropped (due to too many null values) for this to be trusted. Instead, the missing data was pulled from a multitude of WHO datasets to be able to piece the information back together. Once this was complete, the data was able to create a preliminary model that could be trusted. The accuracy was lower, but that was to be expected at this point.
+
+b. Engineering and Feature Selection: The model that was to be used for a multiple linear regression model, which would be a supervised model that took into account many factors. This was chosen so that the santiation factors' effects could be closely mapped. This was working initially, but as the project progressed it became apparent that we might need to move to a single linear regression model so that the result could be clearly communicated with our audience. 
+
+c. Splitting in to Testing and Training Sets: We split the training set away from the testing set by testing the model without the santiation factors and then with the santiation factors for the testing set. If this was unsuccessful, then it would need to be adjusted to perhaps only include the older data in the training set and then use the newer data for the testing set. This could be possible because there is data for each country for many years, ranging from 2008  to 2015.
+
+d. Explanation of Model Choice: The benefits for the multiple linear regression model is that it can be used to test multiple factors at once, but the biggest downside is that the visualizations that were generated with our data was not clean and easy to understand. 
+
 ## Database Integration
 
 - Sample data that mimics the expected final database structure or schema
 - Draft machine learning model is connected to the provisional database
 
+a. Static Data Storage: a combination of AWS and pgAdmin are used to create a solid database to pull from 
+
+b. Database connection: the database is connected to pgAdmin from AWS using the endpoint connection point to import this
+
+c. Tables: There were tables created for every factor of Santiation being considered (ex. Handwashing, Santiation Services, Clean Water). This was used so that they could be displayed individually and then merged easily together
+
 ## Dashboard
 
-- Google Slides, Tableau, and webpage
+- Google Slides, Tableau, and HTML Webpage
 [Tableau Public Link](https://public.tableau.com/views/CapstoneProject_16619160092110/Storyboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
+
+The webpage will collect all of our information and display it for the final presentation. The interactive elements will include our data display, our map, the Tableau visualizations, and our presentation through Google Slides. Our webpage is hosted through GitHub Pages and is currently formatted to be scrollable in a mobile format, but will be tested for best display option. 
 
 
 ## Project Timeline
