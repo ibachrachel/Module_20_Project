@@ -20,16 +20,16 @@
 "Schooling": Number of years of Schooling(years)
 
 ## basic_sani.csv
-"Basic_Sanitation" denotes % of the Population using at least basic sanitation services (facilities that are not shared with other households. Improved sanitation facilities include flush/pour flush to piped sewer systems, septic tanks or pit latrines; ventilated improved pit latrines, compositing toilets or pit latrines with slabs)
+"Basic_Sanitation" denotes the % of the population using at least basic sanitation services, that is, improved sanitation facilities that are not shared with other households. This indicator encompasses both people using basic sanitation services as well as those using safely managed sanitation services (below). Improved sanitation facilities include flush/pour flush toilets connected to piped sewer systems, septic tanks or pit latrines; pit latrines with slabs (including ventilated pit latrines), and composting toilets.
+
+## safe_sani.csv
+"Safe_Sani" denotes % of the population using an improved sanitation facility that is not shared with other households **and where excreta are safely disposed of in situ or treated off site.** Improved sanitation facilities include flush/pour flush to piped sewer systems, septic tanks or pit latrines; pit latrines with slabs (including ventilated pit latrines), and composting toilets.
 
 ## drinking_water.csv
 "Drinking_Water" denotes % of the Population using at least basic drinking water services
 
 ## hand_washing.csv
 "Hand_Washing" denotes % of the Population with basic handwashing facilities at home
-
-## safe_sani.csv
-"Safe_Sani" denotes % of the Population using safe sanitation services 
 
 ## emissions.csv
 "Emissions" denotes CO2 emissions (in metric tons per capita)
