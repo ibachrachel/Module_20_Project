@@ -67,9 +67,17 @@ CREATE TABLE safe_sani (
 	PRIMARY KEY (country, year_)
 	);
 
+ -- Continents
+CREATE TABLE continents (
+    country VARCHAR(100) NOT NULL,
+	continent VARCHAR(100) NOT NULL,
+	PRIMARY KEY (country)
+	);
+
 -- Combine all tables
 SELECT le.country, 
 	le.year_, 
+	co.continent,
 	le.status,
 	le.life_expectancy,
 	le.adult_mortality,
@@ -96,6 +104,7 @@ SELECT le.country,
 	ss.safe_sani,
 	e.emissions
 FROM life_expect AS le 
+FULL OUTER JOIN continents co ON le.country=co.country
 FULL OUTER JOIN drinking_water dw ON le.country=dw.country AND le.year_=dw.year_
 FULL OUTER JOIN basic_sani bs ON le.country=bs.country AND le.year_=bs.year_
 FULL OUTER JOIN safe_sani ss  ON le.country=ss.country AND le.year_=ss.year_
