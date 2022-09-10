@@ -10,8 +10,9 @@ Cabo Verde,Africa
 Central African Republic,Africa
 Chad,Africa
 Comoros,Africa
+Congo,Africa
 Djibouti,Africa
-DR Congo,Africa
+Democratic Republic of the Congo,Africa
 Egypt,Africa
 Equatorial Guinea,Africa
 Eritrea,Africa
@@ -22,7 +23,7 @@ Gambia,Africa
 Ghana,Africa
 Guinea,Africa
 Guinea-Bissau,Africa
-Ivory Coast,Africa
+Cote d'Ivoire,Africa
 Kenya,Africa
 Lesotho,Africa
 Liberia,Africa
@@ -63,7 +64,7 @@ Azerbaijan,Asia
 Bahrain,Asia
 Bangladesh,Asia
 Bhutan,Asia
-Brunei,Asia
+Brunei Darussalam,Asia
 Cambodia,Asia
 China,Asia
 Georgia,Asia
@@ -78,7 +79,7 @@ Jordan,Asia
 Kazakhstan,Asia
 Kuwait,Asia
 Kyrgyzstan,Asia
-Laos,Asia
+Lao People's Democratic Republic,Asia
 Lebanon,Asia
 Macau,Asia
 Malaysia,Asia
@@ -86,7 +87,7 @@ Maldives,Asia
 Mongolia,Asia
 Myanmar,Asia
 Nepal,Asia
-North Korea,Asia
+Democratic People's Republic of Korea,Asia
 Oman,Asia
 Pakistan,Asia
 Palestine,Asia
@@ -94,7 +95,7 @@ Philippines,Asia
 Qatar,Asia
 Saudi Arabia,Asia
 Singapore,Asia
-South Korea,Asia
+Republic of Korea,Asia
 Sri Lanka,Asia
 Syrian Arab Republic,Asia
 Taiwan,Asia
@@ -105,7 +106,7 @@ Turkey,Asia
 Turkmenistan,Asia
 United Arab Emirates,Asia
 Uzbekistan,Asia
-Vietnam,Asia
+Viet Nam,Asia
 Yemen,Asia
 Albania,Europe
 Andorra,Europe
@@ -116,7 +117,7 @@ Bosnia and Herzegovina,Europe
 Bulgaria,Europe
 Croatia,Europe
 Cyprus,Europe
-Czech Republic,Europe
+Czechia,Europe
 Denmark,Europe
 Estonia,Europe
 Faroe Islands,Europe
@@ -137,7 +138,7 @@ Liechtenstein,Europe
 Lithuania,Europe
 Luxembourg,Europe
 Malta,Europe
-Moldova,Europe
+Republic of Moldova,Europe
 Monaco,Europe
 Montenegro,Europe
 Netherlands,Europe
@@ -195,7 +196,7 @@ Saint Vincent and the Grenadines,North America
 Sint Maarten,North America
 Trinidad and Tobago,North America
 Turks and Caicos Islands,North America
-United States,North America
+United States of America,North America
 United States Virgin Islands,North America
 American Samoa,Oceania
 Australia,Oceania
