@@ -24,10 +24,46 @@ streets.addTo(map);
 // Get data from countries.js
 let countryData = countries;
 
+// This function returns the style data for each of the markers  on
+// the map. We pass the life expectancy value into a function
+// to calculate the radius.
+function styleInfo(country) {
+  return {
+    opacity: 1,
+    fillOpacity: 1,
+    fillColor: getColor(country.life_expectancy),
+    color: "#000000",
+    radius: 10,
+    stroke: true,
+    weight: 0.5
+  };
+}
+
+// This function determines the color of the circle based on the country's life expectancy.
+function getColor(le) {
+  if (le> 80) {
+    return "#98ee00";
+  }
+  if (le > 75) {
+    return "#d4ee00";
+  }
+  if (le > 70) {
+    return "#eecc00";
+  }
+  if (le > 65) {
+    return "#ee9c00";
+  }
+  if (le > 60) {
+    return "#ea822c";
+  }
+  return "#ea2c2c";
+}
+
+
 // Loop through the cities array and create one marker for each country.
 countryData.forEach(function(country) {
   console.log(country)
-  L.marker(country.location)
-  .bindPopup("<h2>" + country.country + "</h2> <hr> <h3> Life Expectancy " + country.life_expectancy + "</h3> <hr> <h3> Population " + country.population.toLocaleString() + "</h3>  <hr> <h3> GDP $" + country.gdp.toLocaleString() + "</h3>" )
-.addTo(map);
+  L.circleMarker(country.location, styleInfo(country))
+  .bindPopup("<h2>" + country.country + "</h2> <hr> <h3> Life Expectancy:  " + country.life_expectancy + "</h3>")
+  .addTo(map);
 });
