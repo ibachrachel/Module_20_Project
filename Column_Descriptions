@@ -17,7 +17,7 @@
 "thinness 10-19 years": Prevalence of thinness among children and adolescents for Age 10 to 19 (% )
 "thinness 5-9 years": Prevalence of thinness among children for Age 5 to 9(%)
 "Income composition": Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
-"Schooling": Number of years of Schooling(years)
+"Schooling": The average number of completed years of education of a population  (includes pre-school through higher education)
 
 ## basic_sani.csv
 "Basic_Sanitation" denotes the % of the population using at least basic sanitation services, that is, improved sanitation facilities that are not shared with other households. This indicator encompasses both people using basic sanitation services as well as those using safely managed sanitation services (below). Improved sanitation facilities include flush/pour flush toilets connected to piped sewer systems, septic tanks or pit latrines; pit latrines with slabs (including ventilated pit latrines), and composting toilets.
