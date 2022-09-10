@@ -99,4 +99,6 @@ We will be doing supervised machine learning, utilizing multiple linear regressi
 
 In addition to using a javascript template, we will also Tableau for a fully functioning and interactive dashboard. It will be hosted on GitHub pages.
 
+[Link to Tableau Presentation](https://public.tableau.com/app/profile/theodora.nutaitis.lopez/viz/LifeExpectancyAnalysis_16619270458320/LifeExpectancyAnalysis)
+
 ![Current Webpage](https://user-images.githubusercontent.com/102566199/186820770-9eef7019-acc3-45ad-b236-ee10b6876c04.png)
