@@ -53,24 +53,24 @@ Algeria,2003,84.4
 Algeria,2002,84.04
 Algeria,2001,83.68
 Algeria,2000,83.32
-Andorra,2017,100.0
-Andorra,2016,100.0
-Andorra,2015,100.0
-Andorra,2014,100.0
-Andorra,2013,100.0
-Andorra,2012,100.0
-Andorra,2011,100.0
-Andorra,2010,100.0
-Andorra,2009,100.0
-Andorra,2008,100.0
-Andorra,2007,100.0
-Andorra,2006,100.0
-Andorra,2005,100.0
-Andorra,2004,100.0
-Andorra,2003,100.0
-Andorra,2002,100.0
-Andorra,2001,100.0
-Andorra,2000,100.0
+Andorra,2017,100
+Andorra,2016,100
+Andorra,2015,100
+Andorra,2014,100
+Andorra,2013,100
+Andorra,2012,100
+Andorra,2011,100
+Andorra,2010,100
+Andorra,2009,100
+Andorra,2008,100
+Andorra,2007,100
+Andorra,2006,100
+Andorra,2005,100
+Andorra,2004,100
+Andorra,2003,100
+Andorra,2002,100
+Andorra,2001,100
+Andorra,2000,100
 Angola,2017,27.44
 Angola,2016,27.08
 Angola,2015,26.71
@@ -125,8 +125,8 @@ Argentina,2003,80.55
 Argentina,2002,79.17
 Argentina,2001,77.79
 Argentina,2000,76.4
-Armenia,2017,100.0
-Armenia,2016,100.0
+Armenia,2017,100
+Armenia,2016,100
 Armenia,2015,99.6
 Armenia,2014,99.25
 Armenia,2013,98.47
@@ -143,10 +143,10 @@ Armenia,2003,90.8
 Armenia,2002,90.05
 Armenia,2001,89.3
 Armenia,2000,88.56
-Australia,2017,100.0
-Australia,2016,100.0
-Australia,2015,100.0
-Australia,2014,100.0
+Australia,2017,100
+Australia,2016,100
+Australia,2015,100
+Australia,2014,100
 Australia,2013,99.95
 Australia,2012,99.87
 Australia,2011,99.79
@@ -161,29 +161,29 @@ Australia,2003,99.14
 Australia,2002,99.06
 Australia,2001,99.06
 Australia,2000,99.06
-Austria,2017,100.0
-Austria,2016,100.0
-Austria,2015,100.0
-Austria,2014,100.0
-Austria,2013,100.0
-Austria,2012,100.0
-Austria,2011,100.0
-Austria,2010,100.0
-Austria,2009,100.0
-Austria,2008,100.0
-Austria,2007,100.0
-Austria,2006,100.0
-Austria,2005,100.0
-Austria,2004,100.0
-Austria,2003,100.0
-Austria,2002,100.0
-Austria,2001,100.0
-Austria,2000,100.0
+Austria,2017,100
+Austria,2016,100
+Austria,2015,100
+Austria,2014,100
+Austria,2013,100
+Austria,2012,100
+Austria,2011,100
+Austria,2010,100
+Austria,2009,100
+Austria,2008,100
+Austria,2007,100
+Austria,2006,100
+Austria,2005,100
+Austria,2004,100
+Austria,2003,100
+Austria,2002,100
+Austria,2001,100
+Austria,2000,100
 Azerbaijan,2017,81.57
 Azerbaijan,2016,80.43
 Azerbaijan,2015,79.28
 Azerbaijan,2014,78.14
-Azerbaijan,2013,77.0
+Azerbaijan,2013,77
 Azerbaijan,2012,75.85
 Azerbaijan,2011,74.71
 Azerbaijan,2010,73.56
@@ -215,14 +215,14 @@ Bahamas,2003,98.37
 Bahamas,2002,98.33
 Bahamas,2001,98.29
 Bahamas,2000,98.25
-Bahrain,2017,100.0
-Bahrain,2016,100.0
-Bahrain,2015,100.0
-Bahrain,2014,100.0
-Bahrain,2013,100.0
-Bahrain,2012,100.0
-Bahrain,2011,100.0
-Bahrain,2010,100.0
+Bahrain,2017,100
+Bahrain,2016,100
+Bahrain,2015,100
+Bahrain,2014,100
+Bahrain,2013,100
+Bahrain,2012,100
+Bahrain,2011,100
+Bahrain,2010,100
 Bahrain,2009,99.99
 Bahrain,2008,99.98
 Bahrain,2007,99.97
@@ -287,24 +287,24 @@ Belarus,2003,98.88
 Belarus,2002,98.88
 Belarus,2001,98.88
 Belarus,2000,98.88
-Belgium,2017,100.0
-Belgium,2016,100.0
-Belgium,2015,100.0
-Belgium,2014,100.0
-Belgium,2013,100.0
-Belgium,2012,100.0
-Belgium,2011,100.0
-Belgium,2010,100.0
-Belgium,2009,100.0
-Belgium,2008,100.0
-Belgium,2007,100.0
-Belgium,2006,100.0
-Belgium,2005,100.0
-Belgium,2004,100.0
-Belgium,2003,100.0
-Belgium,2002,100.0
-Belgium,2001,100.0
-Belgium,2000,100.0
+Belgium,2017,100
+Belgium,2016,100
+Belgium,2015,100
+Belgium,2014,100
+Belgium,2013,100
+Belgium,2012,100
+Belgium,2011,100
+Belgium,2010,100
+Belgium,2009,100
+Belgium,2008,100
+Belgium,2007,100
+Belgium,2006,100
+Belgium,2005,100
+Belgium,2004,100
+Belgium,2003,100
+Belgium,2002,100
+Belgium,2001,100
+Belgium,2000,100
 Belize,2017,97.21
 Belize,2016,96.43
 Belize,2015,95.65
@@ -317,7 +317,7 @@ Belize,2009,90.98
 Belize,2008,90.24
 Belize,2007,89.49
 Belize,2006,88.74
-Belize,2005,88.0
+Belize,2005,88
 Belize,2004,87.25
 Belize,2003,86.5
 Belize,2002,85.76
@@ -415,7 +415,7 @@ Botswana,2001,53.68
 Botswana,2000,53.58
 Brazil,2017,89.74
 Brazil,2016,87.87
-Brazil,2015,87.0
+Brazil,2015,87
 Brazil,2014,86.14
 Brazil,2013,85.28
 Brazil,2012,84.42
@@ -480,7 +480,7 @@ Burkina Faso,2008,44.16
 Burkina Faso,2007,45.13
 Burkina Faso,2006,46.1
 Burkina Faso,2005,47.05
-Burkina Faso,2004,48.0
+Burkina Faso,2004,48
 Burkina Faso,2003,48.94
 Burkina Faso,2002,49.87
 Burkina Faso,2001,50.79
@@ -610,7 +610,7 @@ Chad,2003,31.38
 Chad,2002,31.5
 Chad,2001,31.62
 Chad,2000,31.73
-Chile,2017,100.0
+Chile,2017,100
 Chile,2016,98.33
 Chile,2015,98.16
 Chile,2014,96.59
@@ -621,7 +621,7 @@ Chile,2010,90.3
 Chile,2009,88.72
 Chile,2008,87.15
 Chile,2007,85.58
-Chile,2006,84.0
+Chile,2006,84
 Chile,2005,82.43
 Chile,2004,80.86
 Chile,2003,79.28
@@ -736,24 +736,24 @@ Costa Rica,2003,89.37
 Costa Rica,2002,88.59
 Costa Rica,2001,87.8
 Costa Rica,2000,87.02
-Côte d’Ivoire,2017,57.83
-Côte d’Ivoire,2016,57.71
-Côte d’Ivoire,2015,57.58
-Côte d’Ivoire,2014,57.44
-Côte d’Ivoire,2013,57.31
-Côte d’Ivoire,2012,57.18
-Côte d’Ivoire,2011,57.05
-Côte d’Ivoire,2010,56.92
-Côte d’Ivoire,2009,56.78
-Côte d’Ivoire,2008,56.65
-Côte d’Ivoire,2007,56.51
-Côte d’Ivoire,2006,56.38
-Côte d’Ivoire,2005,56.24
-Côte d’Ivoire,2004,56.1
-Côte d’Ivoire,2003,55.97
-Côte d’Ivoire,2002,55.83
-Côte d’Ivoire,2001,55.69
-Côte d’Ivoire,2000,55.55
+Cote d'Ivoire,2017,57.83
+Cote d'Ivoire,2016,57.71
+Cote d'Ivoire,2015,57.58
+Cote d'Ivoire,2014,57.44
+Cote d'Ivoire,2013,57.31
+Cote d'Ivoire,2012,57.18
+Cote d'Ivoire,2011,57.05
+Cote d'Ivoire,2010,56.92
+Cote d'Ivoire,2009,56.78
+Cote d'Ivoire,2008,56.65
+Cote d'Ivoire,2007,56.51
+Cote d'Ivoire,2006,56.38
+Cote d'Ivoire,2005,56.24
+Cote d'Ivoire,2004,56.1
+Cote d'Ivoire,2003,55.97
+Cote d'Ivoire,2002,55.83
+Cote d'Ivoire,2001,55.69
+Cote d'Ivoire,2000,55.55
 Croatia,2017,99.57
 Croatia,2016,99.57
 Croatia,2015,99.57
@@ -768,10 +768,10 @@ Croatia,2007,98.01
 Croatia,2006,97.78
 Croatia,2005,97.56
 Croatia,2004,97.33
-Croatia,2003,100.0
-Croatia,2002,100.0
-Croatia,2001,100.0
-Croatia,2000,100.0
+Croatia,2003,100
+Croatia,2002,100
+Croatia,2001,100
+Croatia,2000,100
 Cuba,2017,90.31
 Cuba,2016,90.31
 Cuba,2015,89.67
@@ -805,9 +805,9 @@ Cyprus,2006,99.86
 Cyprus,2005,99.9
 Cyprus,2004,99.93
 Cyprus,2003,99.95
-Cyprus,2002,100.0
-Cyprus,2001,100.0
-Cyprus,2000,100.0
+Cyprus,2002,100
+Cyprus,2001,100
+Cyprus,2000,100
 Czechia,2017,99.82
 Czechia,2016,99.82
 Czechia,2015,99.82
@@ -862,24 +862,24 @@ Democratic Republic of the Congo,2003,16.8
 Democratic Republic of the Congo,2002,16.37
 Democratic Republic of the Congo,2001,15.94
 Democratic Republic of the Congo,2000,15.52
-Denmark,2017,100.0
-Denmark,2016,100.0
-Denmark,2015,100.0
-Denmark,2014,100.0
-Denmark,2013,100.0
-Denmark,2012,100.0
-Denmark,2011,100.0
-Denmark,2010,100.0
-Denmark,2009,100.0
-Denmark,2008,100.0
-Denmark,2007,100.0
-Denmark,2006,100.0
-Denmark,2005,100.0
-Denmark,2004,100.0
-Denmark,2003,100.0
-Denmark,2002,100.0
-Denmark,2001,100.0
-Denmark,2000,100.0
+Denmark,2017,100
+Denmark,2016,100
+Denmark,2015,100
+Denmark,2014,100
+Denmark,2013,100
+Denmark,2012,100
+Denmark,2011,100
+Denmark,2010,100
+Denmark,2009,100
+Denmark,2008,100
+Denmark,2007,100
+Denmark,2006,100
+Denmark,2005,100
+Denmark,2004,100
+Denmark,2003,100
+Denmark,2002,100
+Denmark,2001,100
+Denmark,2000,100
 Djibouti,2017,47.06
 Djibouti,2016,47.51
 Djibouti,2015,47.96
@@ -918,7 +918,7 @@ Dominican Republic,2017,90.28
 Dominican Republic,2016,90.04
 Dominican Republic,2015,89.36
 Dominican Republic,2014,88.68
-Dominican Republic,2013,88.0
+Dominican Republic,2013,88
 Dominican Republic,2012,87.33
 Dominican Republic,2011,86.66
 Dominican Republic,2010,85.99
@@ -932,8 +932,8 @@ Dominican Republic,2003,81.37
 Dominican Republic,2002,80.72
 Dominican Republic,2001,80.07
 Dominican Republic,2000,79.43
-Ecuador,2017,100.0
-Ecuador,2016,100.0
+Ecuador,2017,100
+Ecuador,2016,100
 Ecuador,2015,81.88
 Ecuador,2014,81.09
 Ecuador,2013,80.3
@@ -1046,7 +1046,7 @@ Eswatini,2014,58.32
 Eswatini,2013,57.25
 Eswatini,2012,56.17
 Eswatini,2011,55.09
-Eswatini,2010,54.0
+Eswatini,2010,54
 Eswatini,2009,52.89
 Eswatini,2008,51.78
 Eswatini,2007,50.65
@@ -1093,42 +1093,42 @@ Fiji,2003,90.51
 Fiji,2002,90.65
 Fiji,2001,90.65
 Fiji,2000,90.65
-Finland,2017,100.0
-Finland,2016,100.0
-Finland,2015,100.0
-Finland,2014,100.0
-Finland,2013,100.0
-Finland,2012,100.0
-Finland,2011,100.0
-Finland,2010,100.0
-Finland,2009,100.0
-Finland,2008,100.0
-Finland,2007,100.0
-Finland,2006,100.0
-Finland,2005,100.0
-Finland,2004,100.0
-Finland,2003,100.0
-Finland,2002,100.0
-Finland,2001,100.0
-Finland,2000,100.0
-France,2017,100.0
-France,2016,100.0
-France,2015,100.0
-France,2014,100.0
-France,2013,100.0
-France,2012,100.0
-France,2011,100.0
-France,2010,100.0
-France,2009,100.0
-France,2008,100.0
-France,2007,100.0
-France,2006,100.0
-France,2005,100.0
-France,2004,100.0
-France,2003,100.0
-France,2002,100.0
-France,2001,100.0
-France,2000,100.0
+Finland,2017,100
+Finland,2016,100
+Finland,2015,100
+Finland,2014,100
+Finland,2013,100
+Finland,2012,100
+Finland,2011,100
+Finland,2010,100
+Finland,2009,100
+Finland,2008,100
+Finland,2007,100
+Finland,2006,100
+Finland,2005,100
+Finland,2004,100
+Finland,2003,100
+Finland,2002,100
+Finland,2001,100
+Finland,2000,100
+France,2017,100
+France,2016,100
+France,2015,100
+France,2014,100
+France,2013,100
+France,2012,100
+France,2011,100
+France,2010,100
+France,2009,100
+France,2008,100
+France,2007,100
+France,2006,100
+France,2005,100
+France,2004,100
+France,2003,100
+France,2002,100
+France,2001,100
+France,2000,100
 Gabon,2017,55.05
 Gabon,2016,55.05
 Gabon,2015,55.05
@@ -1165,7 +1165,7 @@ Gambia,2003,66.96
 Gambia,2002,67.25
 Gambia,2001,67.55
 Gambia,2000,67.84
-Georgia,2017,100.0
+Georgia,2017,100
 Georgia,2016,95.71
 Georgia,2015,95.26
 Georgia,2014,94.82
@@ -1183,24 +1183,24 @@ Georgia,2003,88.29
 Georgia,2002,87.85
 Georgia,2001,87.41
 Georgia,2000,86.97
-Germany,2017,100.0
-Germany,2016,100.0
-Germany,2015,100.0
-Germany,2014,100.0
-Germany,2013,100.0
-Germany,2012,100.0
-Germany,2011,100.0
-Germany,2010,100.0
-Germany,2009,100.0
-Germany,2008,100.0
-Germany,2007,100.0
-Germany,2006,100.0
-Germany,2005,100.0
-Germany,2004,100.0
-Germany,2003,100.0
-Germany,2002,100.0
-Germany,2001,100.0
-Germany,2000,100.0
+Germany,2017,100
+Germany,2016,100
+Germany,2015,100
+Germany,2014,100
+Germany,2013,100
+Germany,2012,100
+Germany,2011,100
+Germany,2010,100
+Germany,2009,100
+Germany,2008,100
+Germany,2007,100
+Germany,2006,100
+Germany,2005,100
+Germany,2004,100
+Germany,2003,100
+Germany,2002,100
+Germany,2001,100
+Germany,2000,100
 Ghana,2017,67.54
 Ghana,2016,66.79
 Ghana,2015,66.04
@@ -1219,12 +1219,12 @@ Ghana,2003,56.62
 Ghana,2002,55.8
 Ghana,2001,54.98
 Ghana,2000,54.03
-Greece,2017,100.0
-Greece,2016,100.0
-Greece,2015,100.0
-Greece,2014,100.0
-Greece,2013,100.0
-Greece,2012,100.0
+Greece,2017,100
+Greece,2016,100
+Greece,2015,100
+Greece,2014,100
+Greece,2013,100
+Greece,2012,100
 Greece,2011,99.85
 Greece,2010,99.74
 Greece,2009,99.64
@@ -1251,7 +1251,7 @@ Grenada,2007,94.93
 Grenada,2006,94.7
 Grenada,2005,94.47
 Grenada,2004,94.24
-Grenada,2003,94.0
+Grenada,2003,94
 Grenada,2002,93.77
 Grenada,2001,93.54
 Grenada,2000,93.31
@@ -1309,9 +1309,9 @@ Guinea-Bissau,2003,43.75
 Guinea-Bissau,2002,42.97
 Guinea-Bissau,2001,42.19
 Guinea-Bissau,2000,41.41
-Guyana,2017,100.0
-Guyana,2016,100.0
-Guyana,2015,100.0
+Guyana,2017,100
+Guyana,2016,100
+Guyana,2015,100
 Guyana,2014,92.92
 Guyana,2013,92.41
 Guyana,2012,91.91
@@ -1363,43 +1363,43 @@ Honduras,2003,78.32
 Honduras,2002,77.57
 Honduras,2001,76.78
 Honduras,2000,75.99
-Hungary,2017,100.0
-Hungary,2016,100.0
-Hungary,2015,100.0
-Hungary,2014,100.0
-Hungary,2013,100.0
-Hungary,2012,100.0
-Hungary,2011,100.0
-Hungary,2010,100.0
-Hungary,2009,100.0
-Hungary,2008,100.0
-Hungary,2007,100.0
-Hungary,2006,100.0
-Hungary,2005,100.0
-Hungary,2004,100.0
-Hungary,2003,100.0
-Hungary,2002,100.0
-Hungary,2001,100.0
-Hungary,2000,100.0
-Iceland,2017,100.0
-Iceland,2016,100.0
-Iceland,2015,100.0
-Iceland,2014,100.0
-Iceland,2013,100.0
-Iceland,2012,100.0
-Iceland,2011,100.0
-Iceland,2010,100.0
-Iceland,2009,100.0
-Iceland,2008,100.0
-Iceland,2007,100.0
-Iceland,2006,100.0
-Iceland,2005,100.0
-Iceland,2004,100.0
-Iceland,2003,100.0
-Iceland,2002,100.0
-Iceland,2001,100.0
-Iceland,2000,100.0
-India,2017,91.0
+Hungary,2017,100
+Hungary,2016,100
+Hungary,2015,100
+Hungary,2014,100
+Hungary,2013,100
+Hungary,2012,100
+Hungary,2011,100
+Hungary,2010,100
+Hungary,2009,100
+Hungary,2008,100
+Hungary,2007,100
+Hungary,2006,100
+Hungary,2005,100
+Hungary,2004,100
+Hungary,2003,100
+Hungary,2002,100
+Hungary,2001,100
+Hungary,2000,100
+Iceland,2017,100
+Iceland,2016,100
+Iceland,2015,100
+Iceland,2014,100
+Iceland,2013,100
+Iceland,2012,100
+Iceland,2011,100
+Iceland,2010,100
+Iceland,2009,100
+Iceland,2008,100
+Iceland,2007,100
+Iceland,2006,100
+Iceland,2005,100
+Iceland,2004,100
+Iceland,2003,100
+Iceland,2002,100
+Iceland,2001,100
+Iceland,2000,100
+India,2017,91
 India,2016,89.95
 India,2015,88.9
 India,2014,87.87
@@ -1478,35 +1478,35 @@ Ireland,2014,96.99
 Ireland,2013,96.99
 Ireland,2012,96.99
 Ireland,2011,96.99
-Ireland,2010,97.0
-Ireland,2009,97.0
-Ireland,2008,97.0
-Ireland,2007,97.0
-Ireland,2006,97.0
+Ireland,2010,97
+Ireland,2009,97
+Ireland,2008,97
+Ireland,2007,97
+Ireland,2006,97
 Ireland,2005,97.01
 Ireland,2004,97.01
 Ireland,2003,97.01
 Ireland,2002,97.01
 Ireland,2001,97.01
 Ireland,2000,97.02
-Israel,2017,100.0
-Israel,2016,100.0
-Israel,2015,100.0
-Israel,2014,100.0
-Israel,2013,100.0
-Israel,2012,100.0
-Israel,2011,100.0
-Israel,2010,100.0
-Israel,2009,100.0
-Israel,2008,100.0
-Israel,2007,100.0
-Israel,2006,100.0
-Israel,2005,100.0
-Israel,2004,100.0
-Israel,2003,100.0
-Israel,2002,100.0
-Israel,2001,100.0
-Israel,2000,100.0
+Israel,2017,100
+Israel,2016,100
+Israel,2015,100
+Israel,2014,100
+Israel,2013,100
+Israel,2012,100
+Israel,2011,100
+Israel,2010,100
+Israel,2009,100
+Israel,2008,100
+Israel,2007,100
+Israel,2006,100
+Israel,2005,100
+Israel,2004,100
+Israel,2003,100
+Israel,2002,100
+Israel,2001,100
+Israel,2000,100
 Italy,2017,99.38
 Italy,2016,99.38
 Italy,2015,99.38
@@ -1523,8 +1523,8 @@ Italy,2005,99.84
 Italy,2004,99.89
 Italy,2003,99.94
 Italy,2002,99.99
-Italy,2001,100.0
-Italy,2000,100.0
+Italy,2001,100
+Italy,2000,100
 Jamaica,2017,84.61
 Jamaica,2016,84.61
 Jamaica,2015,84.4
@@ -1621,7 +1621,7 @@ Kiribati,2015,69.08
 Kiribati,2014,67.81
 Kiribati,2013,66.54
 Kiribati,2012,65.27
-Kiribati,2011,64.0
+Kiribati,2011,64
 Kiribati,2010,62.73
 Kiribati,2009,61.46
 Kiribati,2008,60.19
@@ -1633,24 +1633,24 @@ Kiribati,2003,53.84
 Kiribati,2002,52.57
 Kiribati,2001,51.3
 Kiribati,2000,50.03
-Kuwait,2017,100.0
-Kuwait,2016,100.0
-Kuwait,2015,100.0
-Kuwait,2014,100.0
-Kuwait,2013,100.0
-Kuwait,2012,100.0
-Kuwait,2011,100.0
-Kuwait,2010,100.0
-Kuwait,2009,100.0
-Kuwait,2008,100.0
-Kuwait,2007,100.0
-Kuwait,2006,100.0
-Kuwait,2005,100.0
-Kuwait,2004,100.0
-Kuwait,2003,100.0
-Kuwait,2002,100.0
-Kuwait,2001,100.0
-Kuwait,2000,100.0
+Kuwait,2017,100
+Kuwait,2016,100
+Kuwait,2015,100
+Kuwait,2014,100
+Kuwait,2013,100
+Kuwait,2012,100
+Kuwait,2011,100
+Kuwait,2010,100
+Kuwait,2009,100
+Kuwait,2008,100
+Kuwait,2007,100
+Kuwait,2006,100
+Kuwait,2005,100
+Kuwait,2004,100
+Kuwait,2003,100
+Kuwait,2002,100
+Kuwait,2001,100
+Kuwait,2000,100
 Kyrgyzstan,2017,81.98
 Kyrgyzstan,2016,81.98
 Kyrgyzstan,2015,81.39
@@ -1729,7 +1729,7 @@ Lesotho,2015,59.79
 Lesotho,2014,60.1
 Lesotho,2013,60.4
 Lesotho,2012,60.7
-Lesotho,2011,61.0
+Lesotho,2011,61
 Lesotho,2010,61.31
 Lesotho,2009,61.61
 Lesotho,2008,61.92
@@ -1746,7 +1746,7 @@ Liberia,2016,61.39
 Liberia,2015,60.81
 Liberia,2014,60.21
 Liberia,2013,59.61
-Liberia,2012,59.0
+Liberia,2012,59
 Liberia,2011,58.37
 Liberia,2010,57.74
 Liberia,2009,57.09
@@ -1795,24 +1795,24 @@ Lithuania,2003,78.46
 Lithuania,2002,77.44
 Lithuania,2001,76.42
 Lithuania,2000,75.4
-Luxembourg,2017,100.0
-Luxembourg,2016,100.0
-Luxembourg,2015,100.0
-Luxembourg,2014,100.0
-Luxembourg,2013,100.0
-Luxembourg,2012,100.0
-Luxembourg,2011,100.0
-Luxembourg,2010,100.0
-Luxembourg,2009,100.0
-Luxembourg,2008,100.0
-Luxembourg,2007,100.0
-Luxembourg,2006,100.0
-Luxembourg,2005,100.0
-Luxembourg,2004,100.0
-Luxembourg,2003,100.0
-Luxembourg,2002,100.0
-Luxembourg,2001,100.0
-Luxembourg,2000,100.0
+Luxembourg,2017,100
+Luxembourg,2016,100
+Luxembourg,2015,100
+Luxembourg,2014,100
+Luxembourg,2013,100
+Luxembourg,2012,100
+Luxembourg,2011,100
+Luxembourg,2010,100
+Luxembourg,2009,100
+Luxembourg,2008,100
+Luxembourg,2007,100
+Luxembourg,2006,100
+Luxembourg,2005,100
+Luxembourg,2004,100
+Luxembourg,2003,100
+Luxembourg,2002,100
+Luxembourg,2001,100
+Luxembourg,2000,100
 Madagascar,2017,36.33
 Madagascar,2016,35.55
 Madagascar,2015,34.78
@@ -1903,24 +1903,24 @@ Mali,2003,42.9
 Mali,2002,41.17
 Mali,2001,39.44
 Mali,2000,37.85
-Malta,2017,100.0
-Malta,2016,100.0
-Malta,2015,100.0
-Malta,2014,100.0
-Malta,2013,100.0
-Malta,2012,100.0
-Malta,2011,100.0
-Malta,2010,100.0
-Malta,2009,100.0
-Malta,2008,100.0
-Malta,2007,100.0
-Malta,2006,100.0
-Malta,2005,100.0
-Malta,2004,100.0
-Malta,2003,100.0
-Malta,2002,100.0
-Malta,2001,100.0
-Malta,2000,100.0
+Malta,2017,100
+Malta,2016,100
+Malta,2015,100
+Malta,2014,100
+Malta,2013,100
+Malta,2012,100
+Malta,2011,100
+Malta,2010,100
+Malta,2009,100
+Malta,2008,100
+Malta,2007,100
+Malta,2006,100
+Malta,2005,100
+Malta,2004,100
+Malta,2003,100
+Malta,2002,100
+Malta,2001,100
+Malta,2000,100
 Marshall Islands,2017,86.7
 Marshall Islands,2016,85.03
 Marshall Islands,2015,83.36
@@ -1943,7 +1943,7 @@ Mauritania,2016,48.29
 Mauritania,2015,46.69
 Mauritania,2014,45.11
 Mauritania,2013,43.55
-Mauritania,2012,42.0
+Mauritania,2012,42
 Mauritania,2011,40.47
 Mauritania,2010,38.96
 Mauritania,2009,37.46
@@ -1972,9 +1972,9 @@ Mauritius,2005,99.27
 Mauritius,2004,99.21
 Mauritius,2003,99.14
 Mauritius,2002,99.07
-Mauritius,2001,99.0
+Mauritius,2001,99
 Mauritius,2000,98.93
-Mexico,2017,100.0
+Mexico,2017,100
 Mexico,2016,95.44
 Mexico,2015,94.26
 Mexico,2014,93.09
@@ -2010,24 +2010,24 @@ Micronesia (Federated States of),2003,85.85
 Micronesia (Federated States of),2002,86.46
 Micronesia (Federated States of),2001,87.06
 Micronesia (Federated States of),2000,87.67
-Monaco,2017,100.0
-Monaco,2016,100.0
-Monaco,2015,100.0
-Monaco,2014,100.0
-Monaco,2013,100.0
-Monaco,2012,100.0
-Monaco,2011,100.0
-Monaco,2010,100.0
-Monaco,2009,100.0
-Monaco,2008,100.0
-Monaco,2007,100.0
-Monaco,2006,100.0
-Monaco,2005,100.0
-Monaco,2004,100.0
-Monaco,2003,100.0
-Monaco,2002,100.0
-Monaco,2001,100.0
-Monaco,2000,100.0
+Monaco,2017,100
+Monaco,2016,100
+Monaco,2015,100
+Monaco,2014,100
+Monaco,2013,100
+Monaco,2012,100
+Monaco,2011,100
+Monaco,2010,100
+Monaco,2009,100
+Monaco,2008,100
+Monaco,2007,100
+Monaco,2006,100
+Monaco,2005,100
+Monaco,2004,100
+Monaco,2003,100
+Monaco,2002,100
+Monaco,2001,100
+Monaco,2000,100
 Mongolia,2017,55.87
 Mongolia,2016,54.69
 Mongolia,2015,52.86
@@ -2107,7 +2107,7 @@ Myanmar,2008,56.78
 Myanmar,2007,54.26
 Myanmar,2006,51.79
 Myanmar,2005,49.37
-Myanmar,2004,47.0
+Myanmar,2004,47
 Myanmar,2003,44.69
 Myanmar,2002,42.43
 Myanmar,2001,40.22
@@ -2138,7 +2138,7 @@ Nauru,2013,98.99
 Nauru,2012,98.74
 Nauru,2011,98.49
 Nauru,2010,98.25
-Nauru,2009,98.0
+Nauru,2009,98
 Nauru,2008,97.75
 Nauru,2007,97.5
 Nauru,2006,97.26
@@ -2166,42 +2166,42 @@ Nepal,2003,79.9
 Nepal,2002,79.26
 Nepal,2001,78.62
 Nepal,2000,77.98
-Netherlands,2017,100.0
-Netherlands,2016,100.0
-Netherlands,2015,100.0
-Netherlands,2014,100.0
-Netherlands,2013,100.0
-Netherlands,2012,100.0
-Netherlands,2011,100.0
-Netherlands,2010,100.0
-Netherlands,2009,100.0
-Netherlands,2008,100.0
-Netherlands,2007,100.0
-Netherlands,2006,100.0
-Netherlands,2005,100.0
-Netherlands,2004,100.0
-Netherlands,2003,100.0
-Netherlands,2002,100.0
-Netherlands,2001,100.0
-Netherlands,2000,100.0
-New Zealand,2017,100.0
-New Zealand,2016,100.0
-New Zealand,2015,100.0
-New Zealand,2014,100.0
-New Zealand,2013,100.0
-New Zealand,2012,100.0
-New Zealand,2011,100.0
-New Zealand,2010,100.0
-New Zealand,2009,100.0
-New Zealand,2008,100.0
-New Zealand,2007,100.0
-New Zealand,2006,100.0
-New Zealand,2005,100.0
-New Zealand,2004,100.0
-New Zealand,2003,100.0
-New Zealand,2002,100.0
-New Zealand,2001,100.0
-New Zealand,2000,100.0
+Netherlands,2017,100
+Netherlands,2016,100
+Netherlands,2015,100
+Netherlands,2014,100
+Netherlands,2013,100
+Netherlands,2012,100
+Netherlands,2011,100
+Netherlands,2010,100
+Netherlands,2009,100
+Netherlands,2008,100
+Netherlands,2007,100
+Netherlands,2006,100
+Netherlands,2005,100
+Netherlands,2004,100
+Netherlands,2003,100
+Netherlands,2002,100
+Netherlands,2001,100
+Netherlands,2000,100
+New Zealand,2017,100
+New Zealand,2016,100
+New Zealand,2015,100
+New Zealand,2014,100
+New Zealand,2013,100
+New Zealand,2012,100
+New Zealand,2011,100
+New Zealand,2010,100
+New Zealand,2009,100
+New Zealand,2008,100
+New Zealand,2007,100
+New Zealand,2006,100
+New Zealand,2005,100
+New Zealand,2004,100
+New Zealand,2003,100
+New Zealand,2002,100
+New Zealand,2001,100
+New Zealand,2000,100
 Nicaragua,2017,59.11
 Nicaragua,2016,59.25
 Nicaragua,2015,59.5
@@ -2267,31 +2267,31 @@ Niue,2010,98.54
 Niue,2009,98.66
 Niue,2008,98.77
 Niue,2007,98.89
-Niue,2006,99.0
+Niue,2006,99
 Niue,2005,99.11
 Niue,2004,99.23
 Niue,2003,99.23
 Niue,2002,99.23
 Niue,2001,99.23
 Niue,2000,99.23
-Norway,2017,100.0
-Norway,2016,100.0
-Norway,2015,100.0
-Norway,2014,100.0
-Norway,2013,100.0
-Norway,2012,100.0
-Norway,2011,100.0
-Norway,2010,100.0
-Norway,2009,100.0
-Norway,2008,100.0
-Norway,2007,100.0
-Norway,2006,100.0
-Norway,2005,100.0
-Norway,2004,100.0
-Norway,2003,100.0
-Norway,2002,100.0
-Norway,2001,100.0
-Norway,2000,100.0
+Norway,2017,100
+Norway,2016,100
+Norway,2015,100
+Norway,2014,100
+Norway,2013,100
+Norway,2012,100
+Norway,2011,100
+Norway,2010,100
+Norway,2009,100
+Norway,2008,100
+Norway,2007,100
+Norway,2006,100
+Norway,2005,100
+Norway,2004,100
+Norway,2003,100
+Norway,2002,100
+Norway,2001,100
+Norway,2000,100
 Oman,2017,77.9
 Oman,2016,77.9
 Oman,2015,77.9
@@ -2327,10 +2327,10 @@ Pakistan,2003,82.66
 Pakistan,2002,82.15
 Pakistan,2001,81.65
 Pakistan,2000,81.49
-Palau,2017,100.0
-Palau,2016,100.0
-Palau,2015,100.0
-Palau,2014,100.0
+Palau,2017,100
+Palau,2016,100
+Palau,2015,100
+Palau,2014,100
 Palau,2013,95.28
 Palau,2012,93.55
 Palau,2011,91.83
@@ -2364,7 +2364,7 @@ Panama,2002,76.85
 Panama,2001,75.7
 Panama,2000,74.51
 Papua New Guinea,2017,34.63
-Papua New Guinea,2016,34.0
+Papua New Guinea,2016,34
 Papua New Guinea,2015,33.38
 Papua New Guinea,2014,32.76
 Papua New Guinea,2013,32.14
@@ -2443,16 +2443,16 @@ Poland,2013,96.77
 Poland,2012,96.08
 Poland,2011,95.39
 Poland,2010,94.69
-Poland,2009,94.0
-Poland,2008,94.0
-Poland,2007,94.0
-Poland,2006,94.0
-Poland,2005,94.0
-Portugal,2017,100.0
-Portugal,2016,100.0
-Portugal,2015,100.0
-Portugal,2014,100.0
-Portugal,2013,100.0
+Poland,2009,94
+Poland,2008,94
+Poland,2007,94
+Poland,2006,94
+Poland,2005,94
+Portugal,2017,100
+Portugal,2016,100
+Portugal,2015,100
+Portugal,2014,100
+Portugal,2013,100
 Portugal,2012,99.56
 Portugal,2011,99.47
 Portugal,2010,99.38
@@ -2473,17 +2473,17 @@ Qatar,2014,99.75
 Qatar,2013,99.81
 Qatar,2012,99.88
 Qatar,2011,99.94
-Qatar,2010,100.0
-Qatar,2009,100.0
-Qatar,2008,100.0
-Qatar,2007,100.0
-Qatar,2006,100.0
-Qatar,2005,100.0
-Qatar,2004,100.0
-Qatar,2003,100.0
-Qatar,2002,100.0
-Qatar,2001,100.0
-Qatar,2000,100.0
+Qatar,2010,100
+Qatar,2009,100
+Qatar,2008,100
+Qatar,2007,100
+Qatar,2006,100
+Qatar,2005,100
+Qatar,2004,100
+Qatar,2003,100
+Qatar,2002,100
+Qatar,2001,100
+Qatar,2000,100
 Republic of Korea,2017,99.79
 Republic of Korea,2016,99.68
 Republic of Korea,2015,99.56
@@ -2491,7 +2491,7 @@ Republic of Korea,2014,99.45
 Republic of Korea,2013,99.34
 Republic of Korea,2012,99.23
 Republic of Korea,2011,99.11
-Republic of Korea,2010,99.0
+Republic of Korea,2010,99
 Republic of Korea,2009,98.89
 Republic of Korea,2008,98.78
 Republic of Korea,2007,98.67
@@ -2536,24 +2536,24 @@ The former Yugoslav Republic of Macedonia,2003,98.55
 The former Yugoslav Republic of Macedonia,2002,98.55
 The former Yugoslav Republic of Macedonia,2001,98.55
 The former Yugoslav Republic of Macedonia,2000,98.55
-Romania,2017,100.0
-Romania,2016,100.0
-Romania,2015,100.0
-Romania,2014,100.0
-Romania,2013,100.0
-Romania,2012,100.0
-Romania,2011,100.0
-Romania,2010,100.0
-Romania,2009,100.0
-Romania,2008,100.0
-Romania,2007,100.0
-Romania,2006,100.0
-Romania,2005,100.0
-Romania,2004,100.0
-Romania,2003,100.0
-Romania,2002,100.0
-Romania,2001,100.0
-Romania,2000,100.0
+Romania,2017,100
+Romania,2016,100
+Romania,2015,100
+Romania,2014,100
+Romania,2013,100
+Romania,2012,100
+Romania,2011,100
+Romania,2010,100
+Romania,2009,100
+Romania,2008,100
+Romania,2007,100
+Romania,2006,100
+Romania,2005,100
+Romania,2004,100
+Romania,2003,100
+Romania,2002,100
+Romania,2001,100
+Romania,2000,100
 Russian Federation,2017,92.62
 Russian Federation,2016,92.14
 Russian Federation,2015,91.65
@@ -2589,7 +2589,7 @@ Rwanda,2004,43.65
 Rwanda,2003,42.98
 Rwanda,2002,42.32
 Rwanda,2001,41.66
-Rwanda,2000,41.0
+Rwanda,2000,41
 Saint Kitts and Nevis,2013,98.97
 Saint Kitts and Nevis,2012,98.97
 Saint Kitts and Nevis,2011,98.97
@@ -2626,7 +2626,7 @@ Saint Vincent and the Grenadines,2017,95.15
 Saint Vincent and the Grenadines,2016,95.15
 Saint Vincent and the Grenadines,2015,95.15
 Saint Vincent and the Grenadines,2014,95.15
-Saint Vincent and the Grenadines,2013,95.0
+Saint Vincent and the Grenadines,2013,95
 Saint Vincent and the Grenadines,2012,94.86
 Saint Vincent and the Grenadines,2011,94.72
 Saint Vincent and the Grenadines,2010,94.58
@@ -2640,8 +2640,8 @@ Saint Vincent and the Grenadines,2003,93.58
 Saint Vincent and the Grenadines,2002,93.44
 Saint Vincent and the Grenadines,2001,93.29
 Saint Vincent and the Grenadines,2000,93.15
-Samoa,2017,100.0
-Samoa,2016,100.0
+Samoa,2017,100
+Samoa,2016,100
 Samoa,2015,96.25
 Samoa,2014,95.81
 Samoa,2013,95.37
@@ -2658,24 +2658,24 @@ Samoa,2003,89.93
 Samoa,2002,89.93
 Samoa,2001,89.93
 Samoa,2000,89.93
-San Marino,2017,100.0
-San Marino,2016,100.0
-San Marino,2015,100.0
-San Marino,2014,100.0
-San Marino,2013,100.0
-San Marino,2012,100.0
-San Marino,2011,100.0
-San Marino,2010,100.0
-San Marino,2009,100.0
-San Marino,2008,100.0
-San Marino,2007,100.0
-San Marino,2006,100.0
-San Marino,2005,100.0
-San Marino,2004,100.0
-San Marino,2003,100.0
-San Marino,2002,100.0
-San Marino,2001,100.0
-San Marino,2000,100.0
+San Marino,2017,100
+San Marino,2016,100
+San Marino,2015,100
+San Marino,2014,100
+San Marino,2013,100
+San Marino,2012,100
+San Marino,2011,100
+San Marino,2010,100
+San Marino,2009,100
+San Marino,2008,100
+San Marino,2007,100
+San Marino,2006,100
+San Marino,2005,100
+San Marino,2004,100
+San Marino,2003,100
+San Marino,2002,100
+San Marino,2001,100
+San Marino,2000,100
 Sao Tome and Principe,2017,76.95
 Sao Tome and Principe,2016,76.95
 Sao Tome and Principe,2015,75.72
@@ -2694,7 +2694,7 @@ Sao Tome and Principe,2003,61.55
 Sao Tome and Principe,2002,60.43
 Sao Tome and Principe,2001,59.3
 Sao Tome and Principe,2000,58.19
-Saudi Arabia,2017,100.0
+Saudi Arabia,2017,100
 Saudi Arabia,2016,99.86
 Saudi Arabia,2015,99.69
 Saudi Arabia,2014,99.51
@@ -2758,7 +2758,7 @@ Seychelles,2011,96.03
 Seychelles,2010,95.77
 Seychelles,2009,95.52
 Seychelles,2008,95.26
-Seychelles,2007,95.0
+Seychelles,2007,95
 Seychelles,2006,94.74
 Seychelles,2005,94.49
 Seychelles,2004,94.23
@@ -2784,29 +2784,29 @@ Sierra Leone,2003,27.61
 Sierra Leone,2002,26.02
 Sierra Leone,2001,24.43
 Sierra Leone,2000,24.41
-Singapore,2017,100.0
-Singapore,2016,100.0
-Singapore,2015,100.0
-Singapore,2014,100.0
-Singapore,2013,100.0
-Singapore,2012,100.0
-Singapore,2011,100.0
-Singapore,2010,100.0
-Singapore,2009,100.0
-Singapore,2008,100.0
-Singapore,2007,100.0
-Singapore,2006,100.0
-Singapore,2005,100.0
-Singapore,2004,100.0
-Singapore,2003,100.0
-Singapore,2002,100.0
-Singapore,2001,100.0
-Singapore,2000,100.0
-Slovakia,2017,100.0
-Slovakia,2016,100.0
-Slovakia,2015,100.0
-Slovakia,2014,100.0
-Slovakia,2013,100.0
+Singapore,2017,100
+Singapore,2016,100
+Singapore,2015,100
+Singapore,2014,100
+Singapore,2013,100
+Singapore,2012,100
+Singapore,2011,100
+Singapore,2010,100
+Singapore,2009,100
+Singapore,2008,100
+Singapore,2007,100
+Singapore,2006,100
+Singapore,2005,100
+Singapore,2004,100
+Singapore,2003,100
+Singapore,2002,100
+Singapore,2001,100
+Singapore,2000,100
+Slovakia,2017,100
+Slovakia,2016,100
+Slovakia,2015,100
+Slovakia,2014,100
+Slovakia,2013,100
 Slovakia,2012,98.9
 Slovakia,2011,98.9
 Slovakia,2010,98.29
@@ -2899,24 +2899,24 @@ South Sudan,2014,37.07
 South Sudan,2013,37.67
 South Sudan,2012,38.21
 South Sudan,2011,38.68
-Spain,2017,100.0
-Spain,2016,100.0
-Spain,2015,100.0
-Spain,2014,100.0
-Spain,2013,100.0
-Spain,2012,100.0
-Spain,2011,100.0
-Spain,2010,100.0
-Spain,2009,100.0
-Spain,2008,100.0
-Spain,2007,100.0
-Spain,2006,100.0
-Spain,2005,100.0
-Spain,2004,100.0
-Spain,2003,100.0
-Spain,2002,100.0
-Spain,2001,100.0
-Spain,2000,100.0
+Spain,2017,100
+Spain,2016,100
+Spain,2015,100
+Spain,2014,100
+Spain,2013,100
+Spain,2012,100
+Spain,2011,100
+Spain,2010,100
+Spain,2009,100
+Spain,2008,100
+Spain,2007,100
+Spain,2006,100
+Spain,2005,100
+Spain,2004,100
+Spain,2003,100
+Spain,2002,100
+Spain,2001,100
+Spain,2000,100
 Sri Lanka,2017,87.72
 Sri Lanka,2016,87.04
 Sri Lanka,2015,86.36
@@ -2953,7 +2953,7 @@ Sudan (until 2011),2003,35.3
 Sudan (until 2011),2002,35.3
 Sudan (until 2011),2001,35.3
 Sudan (until 2011),2000,35.3
-Suriname,2017,90.0
+Suriname,2017,90
 Suriname,2016,87.46
 Suriname,2015,87.35
 Suriname,2014,86.85
@@ -2961,7 +2961,7 @@ Suriname,2013,85.8
 Suriname,2012,84.75
 Suriname,2011,83.84
 Suriname,2010,82.92
-Suriname,2009,82.0
+Suriname,2009,82
 Suriname,2008,81.08
 Suriname,2007,80.15
 Suriname,2006,79.22
@@ -2971,42 +2971,42 @@ Suriname,2003,76.41
 Suriname,2002,75.47
 Suriname,2001,74.52
 Suriname,2000,73.57
-Sweden,2017,100.0
-Sweden,2016,100.0
-Sweden,2015,100.0
-Sweden,2014,100.0
-Sweden,2013,100.0
-Sweden,2012,100.0
-Sweden,2011,100.0
-Sweden,2010,100.0
-Sweden,2009,100.0
-Sweden,2008,100.0
-Sweden,2007,100.0
-Sweden,2006,100.0
-Sweden,2005,100.0
-Sweden,2004,100.0
-Sweden,2003,100.0
-Sweden,2002,100.0
-Sweden,2001,100.0
-Sweden,2000,100.0
-Switzerland,2017,100.0
-Switzerland,2016,100.0
-Switzerland,2015,100.0
-Switzerland,2014,100.0
-Switzerland,2013,100.0
-Switzerland,2012,100.0
-Switzerland,2011,100.0
-Switzerland,2010,100.0
-Switzerland,2009,100.0
-Switzerland,2008,100.0
-Switzerland,2007,100.0
-Switzerland,2006,100.0
-Switzerland,2005,100.0
-Switzerland,2004,100.0
-Switzerland,2003,100.0
-Switzerland,2002,100.0
-Switzerland,2001,100.0
-Switzerland,2000,100.0
+Sweden,2017,100
+Sweden,2016,100
+Sweden,2015,100
+Sweden,2014,100
+Sweden,2013,100
+Sweden,2012,100
+Sweden,2011,100
+Sweden,2010,100
+Sweden,2009,100
+Sweden,2008,100
+Sweden,2007,100
+Sweden,2006,100
+Sweden,2005,100
+Sweden,2004,100
+Sweden,2003,100
+Sweden,2002,100
+Sweden,2001,100
+Sweden,2000,100
+Switzerland,2017,100
+Switzerland,2016,100
+Switzerland,2015,100
+Switzerland,2014,100
+Switzerland,2013,100
+Switzerland,2012,100
+Switzerland,2011,100
+Switzerland,2010,100
+Switzerland,2009,100
+Switzerland,2008,100
+Switzerland,2007,100
+Switzerland,2006,100
+Switzerland,2005,100
+Switzerland,2004,100
+Switzerland,2003,100
+Switzerland,2002,100
+Switzerland,2001,100
+Switzerland,2000,100
 Syrian Arab Republic,2017,95.17
 Syrian Arab Republic,2016,94.87
 Syrian Arab Republic,2015,94.57
@@ -3021,7 +3021,7 @@ Syrian Arab Republic,2007,92.19
 Syrian Arab Republic,2006,91.89
 Syrian Arab Republic,2005,91.6
 Syrian Arab Republic,2004,91.3
-Syrian Arab Republic,2003,91.0
+Syrian Arab Republic,2003,91
 Syrian Arab Republic,2002,90.7
 Syrian Arab Republic,2001,90.41
 Syrian Arab Republic,2000,90.11
@@ -3032,7 +3032,7 @@ Tajikistan,2014,69.73
 Tajikistan,2013,67.78
 Tajikistan,2012,65.84
 Tajikistan,2011,63.91
-Tajikistan,2010,62.0
+Tajikistan,2010,62
 Tajikistan,2009,60.1
 Tajikistan,2008,58.2
 Tajikistan,2007,56.32
@@ -3043,7 +3043,7 @@ Tajikistan,2003,48.91
 Tajikistan,2002,47.09
 Tajikistan,2001,45.27
 Tajikistan,2000,43.47
-Thailand,2017,100.0
+Thailand,2017,100
 Thailand,2016,99.03
 Thailand,2015,99.02
 Thailand,2014,98.66
@@ -3066,7 +3066,7 @@ Timor-Leste,2016,67.49
 Timor-Leste,2015,65.32
 Timor-Leste,2014,63.18
 Timor-Leste,2013,61.07
-Timor-Leste,2012,59.0
+Timor-Leste,2012,59
 Timor-Leste,2011,56.96
 Timor-Leste,2010,54.95
 Timor-Leste,2009,52.97
@@ -3143,7 +3143,7 @@ Tunisia,2009,77.05
 Tunisia,2008,76.01
 Tunisia,2007,75.34
 Tunisia,2006,74.67
-Tunisia,2005,74.0
+Tunisia,2005,74
 Tunisia,2004,73.33
 Tunisia,2003,72.66
 Tunisia,2002,71.99
@@ -3167,7 +3167,7 @@ Turkey,2003,90.79
 Turkey,2002,90.05
 Turkey,2001,89.3
 Turkey,2000,89.3
-Turkmenistan,2017,100.0
+Turkmenistan,2017,100
 Turkmenistan,2016,97.72
 Turkmenistan,2015,97.01
 Turkmenistan,2014,95.87
@@ -3176,7 +3176,7 @@ Turkmenistan,2012,93.6
 Turkmenistan,2011,92.46
 Turkmenistan,2010,91.31
 Turkmenistan,2009,90.16
-Turkmenistan,2008,89.0
+Turkmenistan,2008,89
 Turkmenistan,2007,87.84
 Turkmenistan,2006,86.68
 Turkmenistan,2005,85.51
@@ -3256,24 +3256,24 @@ United Arab Emirates,2003,95.71
 United Arab Emirates,2002,95.7
 United Arab Emirates,2001,95.68
 United Arab Emirates,2000,95.68
-United Kingdom of Great Britain and Northern Ireland,2017,100.0
-United Kingdom of Great Britain and Northern Ireland,2016,100.0
-United Kingdom of Great Britain and Northern Ireland,2015,100.0
-United Kingdom of Great Britain and Northern Ireland,2014,100.0
-United Kingdom of Great Britain and Northern Ireland,2013,100.0
-United Kingdom of Great Britain and Northern Ireland,2012,100.0
-United Kingdom of Great Britain and Northern Ireland,2011,100.0
-United Kingdom of Great Britain and Northern Ireland,2010,100.0
-United Kingdom of Great Britain and Northern Ireland,2009,100.0
-United Kingdom of Great Britain and Northern Ireland,2008,100.0
-United Kingdom of Great Britain and Northern Ireland,2007,100.0
-United Kingdom of Great Britain and Northern Ireland,2006,100.0
-United Kingdom of Great Britain and Northern Ireland,2005,100.0
-United Kingdom of Great Britain and Northern Ireland,2004,100.0
-United Kingdom of Great Britain and Northern Ireland,2003,100.0
-United Kingdom of Great Britain and Northern Ireland,2002,100.0
-United Kingdom of Great Britain and Northern Ireland,2001,100.0
-United Kingdom of Great Britain and Northern Ireland,2000,100.0
+United Kingdom of Great Britain and Northern Ireland,2017,100
+United Kingdom of Great Britain and Northern Ireland,2016,100
+United Kingdom of Great Britain and Northern Ireland,2015,100
+United Kingdom of Great Britain and Northern Ireland,2014,100
+United Kingdom of Great Britain and Northern Ireland,2013,100
+United Kingdom of Great Britain and Northern Ireland,2012,100
+United Kingdom of Great Britain and Northern Ireland,2011,100
+United Kingdom of Great Britain and Northern Ireland,2010,100
+United Kingdom of Great Britain and Northern Ireland,2009,100
+United Kingdom of Great Britain and Northern Ireland,2008,100
+United Kingdom of Great Britain and Northern Ireland,2007,100
+United Kingdom of Great Britain and Northern Ireland,2006,100
+United Kingdom of Great Britain and Northern Ireland,2005,100
+United Kingdom of Great Britain and Northern Ireland,2004,100
+United Kingdom of Great Britain and Northern Ireland,2003,100
+United Kingdom of Great Britain and Northern Ireland,2002,100
+United Kingdom of Great Britain and Northern Ireland,2001,100
+United Kingdom of Great Britain and Northern Ireland,2000,100
 United Republic of Tanzania,2017,42.5
 United Republic of Tanzania,2016,40.81
 United Republic of Tanzania,2015,39.14
@@ -3369,7 +3369,7 @@ Venezuela (Bolivarian Republic of),2016,95.78
 Venezuela (Bolivarian Republic of),2015,95.83
 Venezuela (Bolivarian Republic of),2014,95.89
 Venezuela (Bolivarian Republic of),2013,95.94
-Venezuela (Bolivarian Republic of),2012,96.0
+Venezuela (Bolivarian Republic of),2012,96
 Venezuela (Bolivarian Republic of),2011,96.05
 Venezuela (Bolivarian Republic of),2010,96.11
 Venezuela (Bolivarian Republic of),2009,96.16
@@ -3405,7 +3405,7 @@ Yemen,2016,54.7
 Yemen,2015,54.7
 Yemen,2014,52.47
 Yemen,2013,50.23
-Yemen,2012,48.0
+Yemen,2012,48
 Yemen,2011,45.76
 Yemen,2010,43.53
 Yemen,2009,41.29

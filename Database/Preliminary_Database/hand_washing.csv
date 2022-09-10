@@ -167,7 +167,7 @@ Burundi,2005,5.92
 Burundi,2004,5.87
 Cambodia,2017,66.23
 Cambodia,2016,66.11
-Cambodia,2015,66.0
+Cambodia,2015,66
 Cambodia,2014,65.89
 Cambodia,2013,65.78
 Cambodia,2012,65.67
@@ -229,18 +229,18 @@ Costa Rica,2010,83.78
 Costa Rica,2009,83.77
 Costa Rica,2008,83.75
 Costa Rica,2007,83.74
-Côte d’Ivoire,2017,19.35
-Côte d’Ivoire,2016,19.27
-Côte d’Ivoire,2015,19.19
-Côte d’Ivoire,2014,19.11
-Côte d’Ivoire,2013,19.04
-Côte d’Ivoire,2012,18.96
-Côte d’Ivoire,2011,18.88
-Côte d’Ivoire,2010,18.81
-Côte d’Ivoire,2009,18.73
-Côte d’Ivoire,2008,18.66
-Côte d’Ivoire,2007,18.58
-Côte d’Ivoire,2006,18.5
+Cote d'Ivoire,2017,19.35
+Cote d'Ivoire,2016,19.27
+Cote d'Ivoire,2015,19.19
+Cote d'Ivoire,2014,19.11
+Cote d'Ivoire,2013,19.04
+Cote d'Ivoire,2012,18.96
+Cote d'Ivoire,2011,18.88
+Cote d'Ivoire,2010,18.81
+Cote d'Ivoire,2009,18.73
+Cote d'Ivoire,2008,18.66
+Cote d'Ivoire,2007,18.58
+Cote d'Ivoire,2006,18.5
 Cuba,2017,85.2
 Cuba,2016,85.19
 Cuba,2015,85.19
@@ -316,7 +316,7 @@ Equatorial Guinea,2008,24.16
 Equatorial Guinea,2007,24.05
 Eswatini,2017,24.1
 Eswatini,2016,24.05
-Eswatini,2015,24.0
+Eswatini,2015,24
 Eswatini,2014,23.95
 Eswatini,2013,23.9
 Eswatini,2012,23.86
@@ -345,7 +345,7 @@ Gambia,2010,7.32
 Gambia,2009,7.24
 Gambia,2008,7.16
 Gambia,2007,7.08
-Gambia,2006,7.0
+Gambia,2006,7
 Gambia,2005,6.92
 Gambia,2004,6.84
 Ghana,2017,41.05
@@ -371,7 +371,7 @@ Guinea,2010,17.16
 Guinea,2009,17.12
 Guinea,2008,17.08
 Guinea,2007,17.04
-Guinea,2006,17.0
+Guinea,2006,17
 Guinea-Bissau,2017,6.4
 Guinea-Bissau,2016,6.39
 Guinea-Bissau,2015,6.37
@@ -455,13 +455,13 @@ Jamaica,2010,66.36
 Jamaica,2009,66.35
 Jamaica,2008,66.34
 Jamaica,2007,66.32
-Kazakhstan,2017,99.0
-Kazakhstan,2016,99.0
-Kazakhstan,2015,99.0
-Kazakhstan,2014,99.0
-Kazakhstan,2013,99.0
-Kazakhstan,2012,99.0
-Kazakhstan,2011,99.0
+Kazakhstan,2017,99
+Kazakhstan,2016,99
+Kazakhstan,2015,99
+Kazakhstan,2014,99
+Kazakhstan,2013,99
+Kazakhstan,2012,99
+Kazakhstan,2011,99
 Kenya,2017,24.65
 Kenya,2016,24.61
 Kenya,2015,24.56
@@ -545,14 +545,14 @@ Mali,2016,51.99
 Mali,2015,51.74
 Mali,2014,51.49
 Mali,2013,51.24
-Mali,2012,51.0
+Mali,2012,51
 Mali,2011,50.75
 Marshall Islands,2017,82.5
 Marshall Islands,2016,82.47
 Marshall Islands,2015,82.44
 Marshall Islands,2014,82.41
 Marshall Islands,2013,82.38
-Mauritania,2017,43.0
+Mauritania,2017,43
 Mauritania,2016,42.78
 Mauritania,2015,42.55
 Mauritania,2014,42.32
@@ -668,7 +668,7 @@ Republic of Moldova,2012,86.98
 Republic of Moldova,2011,86.99
 Republic of Moldova,2010,86.99
 Republic of Moldova,2009,86.99
-Republic of Moldova,2008,87.0
+Republic of Moldova,2008,87
 Rwanda,2017,4.62
 Rwanda,2016,4.42
 Rwanda,2015,4.23
@@ -705,7 +705,7 @@ Sao Tome and Principe,2012,41.74
 Sao Tome and Principe,2011,41.83
 Sao Tome and Principe,2010,41.92
 Senegal,2017,24.15
-Senegal,2016,24.0
+Senegal,2016,24
 Senegal,2015,23.85
 Senegal,2014,23.71
 Senegal,2013,23.57
@@ -832,7 +832,7 @@ Tunisia,2009,89.47
 Tunisia,2008,89.4
 Tunisia,2007,89.32
 Tunisia,2006,89.25
-Turkmenistan,2017,100.0
+Turkmenistan,2017,100
 Turkmenistan,2016,99.38
 Turkmenistan,2015,97.65
 Turkmenistan,2014,95.91
