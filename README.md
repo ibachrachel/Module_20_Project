@@ -1,18 +1,18 @@
 # Final Project: Collaborate Capstone
 ### Group Number 5: Saturday Night Five
 
-## ![#2874A6 ](https://via.placeholder.com/15/2874A6/2874A6.png) Table of Contents 
+## ![#2874A6 ](https://via.placeholder.com/15/2874A6/2874A6.png) Content Navigator 
 <details>
   <summary>Click to expand or hide</summary>
 
 <br/>
 	
 * [Project Overview](#project-overview)
-   * [Project Description](#project-description) 
-   * [Why we selected this project](#why-we-selected-this-project) 
-   * [Questions we hope to answer with the data](#questions-we-hope-to-answer-with-the-data) 
+   * [Project Topic](#selected-topic) 
+   * [Why we selected this project](#reason-for-topic) 
+   * [Questions we hope to answer with the data](#questions-to-answer) 
 * [Resources](#resources) 
-* [Communication Resources](#communication-resources)    
+* [Communication Resources](#communication-protocols)    
 * [Data Visualizations](#data-visualizations) 
    * [Housing values, housing inventory, and population in July 2021](#housing-values-housing-inventory-and-population-in-july-2021)
    * [Four additional visualizations and four insights from housing data](#four-additional-visualizations-and-four-insights-from-the-housing-data) 
@@ -24,10 +24,12 @@
 	
 </details>
 
+
 ## Presentation 
 
 [Link to Google Slides Presentation](https://docs.google.com/presentation/d/1YMWFu4EWW-TqpLAgISpPaUMpxWWm84ooTI_JyVNc4Eo/edit?usp=sharing)
 
+## Project Overview
 
 - Selected Topic: Life Expectancy
 
@@ -54,7 +56,6 @@ c. Going forward, humanitarian efforts can be focused on what areas of the world
 
 - Data Analysis: While building the data analysis, columsn were added to the Life Expectancy dataset to increase the amount of factors that could be considered. These columns came from the Santiation files initially discussed. The data was displaying some outliers when scaling the data for the machine learning model. The min-max scaling option was displaying some serious outliers. This was further demonstrated by the drafted Tableau visualizations that were created to check on this trend. The preliminary analysis yielded 5 main factors with the highest affect on Life Expectancy: BMI, Schooling, Commposition of Resources, Adult Morality, and Infant Deaths. Many of the visualizations used to better understand that data found a positive correlation between the increase in Santiation factors and the increase in Life Expectancy. 
 
-## GitHub
 
 *Communication Protocols*
 
@@ -66,23 +67,6 @@ In the case of emergency, the member will be contacted through their personal em
 Each group member has made a branch that they will submit changes from, which are then merged to the main. Different topics and actions will be seperated via new branches being made. Only functional code, documentation, and resources will be merged directly with the main immediately. 
 
 ------------------------------------------------------
-*Group Roles*
-
-Square: The team member in the square role will be responsible for the repository. 
-
-- Rachel 
-
-Triangle: The member in the triangle role will create a mockup of a machine learning model. This can even be a diagram that explains how it will work concurrently with the rest of the project steps.
-
-- Scott
-
-Circle: The member in the circle role will create a mockup of a database with a set of sample data, or even fabricated data. This will ensure the database will work seamlessly with the rest of the project.
-
-- Stephen
-
-X: The member in the X role will decide which technologies will be used for each step of the project.
-
-- Teddi
 
 
 ## Machine Learning Model
