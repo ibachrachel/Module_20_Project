@@ -1,6 +1,6 @@
 # Capstone Project: Life Expectancy Analysis using Linear Regression
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Life_expectancy_world_map.PNG"  width="1000" height="450">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Life_expectancy_world_map.PNG"  width="1000" height="400">
  
 
 ## ![#2874A6 ](https://via.placeholder.com/15/2874A6/2874A6.png) Content Navigator 
