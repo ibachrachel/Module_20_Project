@@ -30,7 +30,7 @@
 
 #### Topic Description
 
-Throughout the centuries, life expectancy has increased due to improvements made to the environment in which a population lives in. This increase in life expectancy can be accounted for be analyzing factors that might contribute to a healthier life, such as economical factors, social factors, and mortality factors. 
+Throughout the centuries, life expectancy has increased due to improvements made to the environment in which a population lives in. This increase in life expectancy can be accounted for be analyzing factors that might contribute to a healthier life, such as economical factors, social factors, and mortality factors. The goal of our project was to be able to identify the effects of santiation on worldwide life expectancy. We examined 193 countries within decade long period. 
 
 #### Description of Data Source
 
@@ -51,11 +51,11 @@ c. Going forward, humanitarian efforts can be focused on what areas of the world
 
 #### Resources 
 
-a. Software: Jupyter Notebook, Tableau 2022.1, Google Slides, Canva, Git Bash, Slack, R
+a. Software: Jupyter Notebook, Tableau 2022.1, Google Slides, Canva, Git Bash, Slack, R, VScode
 
-b. Languages: Python 3.7
+b. Languages: Python 3.7, HTML, CSS
 
-c. Libraries: Pandas
+c. Libraries: Pandas, numpy, sklearn.model
 
 d. Machine Learning Models: Multiple Linear Regression
 
@@ -65,8 +65,14 @@ e. Database: postgreSQL, pgAdmin, AWS
 
 #### Communication Protocols
 
+1. Slack Messaging App
+
+2. 2 Hour Collaboration Meetings Bi-Weekly
+
 Communication will take place through the Slack chat and requires each group member to contribute to the conversation regularly. 
 In the case of emergency, the member will be contacted through their personal email. Everyone shall clearly communicate what they plan to work on and complete between class meetings. 
+
+#### Data Visualizations
 
 
 
@@ -84,6 +90,8 @@ c. Splitting in to Testing and Training Sets: We split the training set away fro
 d. Explanation of Model Choice: The benefits for the multiple linear regression model is that it can be used to test multiple factors at once, but the biggest downside is that the visualizations that were generated with our data was not clean and easy to understand. 
 
 #### Database 
+
+Conceptual Diagram to help visualize our database construction
 
 ![Database Schema](https://user-images.githubusercontent.com/102566199/189573147-f648a7cd-2e45-493d-8c5a-d4f9ad68616b.png)
 
