@@ -35,8 +35,6 @@ Throughout the centuries, life expectancy has increased due to improvements made
 
 Both datasets come from the World Health Organization (WHO) and they cover the most recent health statistics of the world. One dataset  includes various indicators of health and the percentages of individuals with access to these factors. The second dataset includes information about how life expectancy has increased or decreased in countries around the world. 
 
-
-
 ![World LE](https://user-images.githubusercontent.com/102566199/186822449-9c7a764e-22c5-400f-845a-daea252d9074.png)
 
 
@@ -130,3 +128,9 @@ The scaling of the data for the machine learning model was difficult to understa
 [Life Expectancy (WHO)](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 
 [World Health Statistics 2020](https://www.kaggle.com/datasets/utkarshxy/who-worldhealth-statistics-2020-complete?select=safelySanitization.csv)
+
+- Website Link:
+
+(Dashboard) []
+
+[To Navigate to the Top](#Capstone-Project:-Life-Expectancy-Analysis-using-Linear-Regression)
