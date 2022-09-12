@@ -19,7 +19,7 @@
 * [Database](#database)
 * [Data Analysis](#data-analysis)   
 * [Analysis Summary](#analysis-summary) 
-* [Future Perspective](#future-perspective)
+* [Recommendations for the Future](#future-recommendations)
 	
 </details>
 
@@ -66,16 +66,11 @@ d. Machine Learning Models: Multiple Linear Regression
 
 e. Database: postgreSQL, pgAdmin, AWS
 
-*Communication Protocols*
+#### Communication Protocols
 
 Communication will take place through the Slack chat and requires each group member to contribute to the conversation regularly. 
 In the case of emergency, the member will be contacted through their personal email. Everyone shall clearly communicate what they plan to work on and complete between class meetings. 
 
-*Branching*
-
-Each group member has made a branch that they will submit changes from, which are then merged to the main. Different topics and actions will be seperated via new branches being made. Only functional code, documentation, and resources will be merged directly with the main immediately. 
-
-------------------------------------------------------
 
 
 #### Machine Learning Model
@@ -114,4 +109,8 @@ c. Tables: There were tables created for every factor of Santiation being consid
 The webpage will collect all of our information and display it for the final presentation. The interactive elements will include our data display, our map, the Tableau visualizations, and our presentation through Google Slides. Our webpage is hosted through GitHub Pages and is currently formatted to be scrollable in a mobile format, but will be tested for best display option. 
 
 
+#### Future Recommendations
 
+If our group was to redo this project, we would have immediately found additional data to fill in the datasets with any information that was missing. Many countries were missing population data, which was difficult to work with because entire countries would not be represented. Once this component was fixed, we would be able to join our datasets without so many null values being present. 
+
+The scaling of the data for the machine learning model was difficult to understand because outliers tended to skew the visualizations created. 
