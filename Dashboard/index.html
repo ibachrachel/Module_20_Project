@@ -53,15 +53,23 @@
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQud57jJi5mIbaQHBShnfFiiDjskjHTdU7FAnqLw6tHuuuF_iXUufNlYUE7mgKSI23whGwbySzSTX_P/embed?start=false&loop=true&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
         <br>
         <br>
-        <iframe src="https://public.tableau.com/views/LifeExpectancyAnalysis_16619270458320/LifeExpectancyAnalysis?:showVizHome=no&:embed=true"
-        width="1020" height="1000"></iframe>
+        <iframe src="https://public.tableau.com/views/LifeExpectancy_16629782555020/LifeExpectancyAnalysis?:showVizHome=no&:embed=true"
+        width="1080" height="1080"></iframe>
       </div>
     </div>
   </div>
   <br>
   <br>
   <div class="col-md-12 mx-auto text-center">
-    <h3> 2022 Life Expectancy Data </h3>
+    <h3> Current Life Expectancy Data 
+    <br>
+    From the World Health Organization's 2022 Comprehensive Report, May 20, 2022:</h3>
+    <h4> <a href="https://www.who.int/news/item/20-05-2022-world-health-statistics-2022" class="link-secondary">The complete article can be read here </a> </h4>
+    <h4>The World Health Organization has published its latest comprehensive set of World Health Statistics to 2020, the first year of the COVID-19 pandemic, which led to an estimated 4.5 million excess deaths in that year.
+    <h4>The statistics reveal the extent to which the pandemic has been affecting health systems worldwide, in some cases severely curtailing access to vital services. These disruptions are likely to set back global progress on both life expectancy and healthy life expectancy made in the first 20 years of the century.
+    <h4>Global life expectancy at birth had increased from 66.8 years in 2000 to 73.3 years in 2019, and healthy life expectancy increased from 58.3 years to 63.7 years. This was largely due to gains in maternal and child health, and to major investments and improvements in communicable disease programmes, such as HIV, tuberculosis and malaria. But the 2020 data shows how service disruptions contributed to an increase in deaths from tuberculosis and malaria between 2019 and 2020.
+    <h4>Prior to the pandemic, there had also been encouraging trends globally in the reduction of child stunting, alcohol consumption and tobacco use, as well as in increased access to safely managed drinking water, safely managed sanitation, basic hygiene, and clean fuels and technologies for cooking.</h4>
+    <br>
     <h4> (Click on the markers to view details for each country) </h4>
   </div>
   <!-- The div that holds our map -->
@@ -85,6 +93,70 @@
       </div>
     </div>
   </div>
+  <div class="container-fluid">
+    <div class="row">
+        <div class="col-md-3">
+            <form>
+                <p>Filter Search</p>
+              </form>
+            <ul class="bg-dark list-group">
+                <li class="bg-dark list-group-item">
+                    <label for="country">Enter Country</label>
+                    <input type="text" placeholder="Thailand" id="country" />
+                </li>
+                <li class="bg-dark list-group-item">
+                    <label for="continent">Enter Continent</label>
+                    <input type="text" placeholder="Asia" id="continent" />
+                </li>
+                <li class="bg-dark list-group-item">
+                  <label for="year_">Enter Year</label>
+                  <input type="text" placeholder="2005" id="year_" />
+                </li>
+                <li class="bg-dark list-group-item">
+                  <label for="status">Enter Status - Developed or Developing </label>
+                  <input type="text" placeholder="Developing" id="status" />
+              </li>
+            </ul>
+        </div>
+        <div class="col-md-9">
+            <table class="table table-striped">
+                <thead>
+                  <tr>
+                    <th>Country</th>
+                    <th>Continent</th>
+                    <th>Year</th>
+                    <th>Status</th>
+                    <th>Life Expectancy</th>
+                    <th>Adult Mortality</th>
+                    <th>Infant Deaths</th>
+                    <th>Under-5 Deaths</th>
+                    <th>Drinking Water</th>
+                    <th>Hand Washing</th>
+                    <th>Basic Sanitation</th>
+                    <th>Safe Sanitation</th>
+                    <th>Schooling</th>
+                    <th>GDP</th>
+                    <th>Alcohol</th>
+                    <th>Hepatitis</th>
+                    <th>Measles</th>
+                    <th>Polio</th>
+                    <th>HIV/AIDS</th>
+                    <th>Thinness 5-9 Years</th>
+                    <th>Thinness 10-19 Years</th>
+                    <th>BMI</th>
+                    <th>Percentage Expenditure</th>
+                    <th>Total Expenditure</th>
+                    <th>Income Composition</th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+        </div>
+    </div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+<script src="life_expect.js"></script>
+<script src="app.js"></script>
 </body>
 
 </html>
