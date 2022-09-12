@@ -1,6 +1,6 @@
 # Capstone Project: Life Expectancy Analysis using Linear Regression
 
-<img src="![3-World-maps-of-Life-expectancy-e1538651530288](https://ourworldindata.org/life-expectancy-globally)"  width="1000" height="250">
+<img src="[![3-World-maps-of-Life-expectancy-e1538651530288](https://ourworldindata.org/life-expectancy-globally)](https://upload.wikimedia.org/wikipedia/commons/6/6e/Life_expectancy_world_map.PNG)"  width="1000" height="250">
 
 
 ## ![#2874A6 ](https://via.placeholder.com/15/2874A6/2874A6.png) Content Navigator 
