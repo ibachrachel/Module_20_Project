@@ -1,5 +1,5 @@
-# Final Project: Collaborate Capstone
-### Group Number 5: Saturday Night Five
+# Capstone Project: Life Expectancy Analysis using Linear Regression
+
 
 ## ![#2874A6 ](https://via.placeholder.com/15/2874A6/2874A6.png) Content Navigator 
 <details>
@@ -8,9 +8,9 @@
 <br/>
 	
 * [Project Overview](#project-overview)
-   * [Project Topic](#selected-topic) 
    * [Why we selected this project](#reason-for-topic) 
    * [Questions we hope to answer with the data](#questions-to-answer) 
+* [Timeline] (#project-timeline)
 * [Resources](#resources) 
 * [Communication Resources](#communication-protocols)    
 * [Data Visualizations](#data-visualizations) 
@@ -31,11 +31,9 @@
 
 ## Project Overview
 
-- Selected Topic: Life Expectancy
+#### Reason for Topic: Throughout the centuries, life expectancy has increased due to improvements made to the environment in which a population lives in. This increase in life expectancy can be accounted for be analyzing factors that might contribute to a healthier life, such as economical factors, social factors, and mortality factors. 
 
-- Reason for Topic: Throughout the centuries, life expectancy has increased due to improvements made to the environment in which a population lives in. This increase in life expectancy can be accounted for be analyzing factors that might contribute to a healthier life, such as economical factors, social factors, and mortality factors. 
-
-- Description of Data Source: Both datasets come from the World Health Organization (WHO) and they cover the most recent health statistics of the world. One dataset  includes various indicators of health and the percentages of individuals with access to these factors. The second dataset includes information about how life expectancy has increased or decreased in countries around the world. 
+#### Description of Data Source: Both datasets come from the World Health Organization (WHO) and they cover the most recent health statistics of the world. One dataset  includes various indicators of health and the percentages of individuals with access to these factors. The second dataset includes information about how life expectancy has increased or decreased in countries around the world. 
 
 a. Life Expectancy (WHO) https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who 
 
@@ -44,7 +42,7 @@ b. World Health Statistics 2020 https://www.kaggle.com/datasets/utkarshxy/who-wo
 ![World LE](https://user-images.githubusercontent.com/102566199/186822449-9c7a764e-22c5-400f-845a-daea252d9074.png)
 
 
-*Questions to Answer*
+#### Questions to Answer
  
 a. Which countries have an increase in life expectancy? Which countries did not?
 
@@ -56,6 +54,21 @@ c. Going forward, humanitarian efforts can be focused on what areas of the world
 
 - Data Analysis: While building the data analysis, columsn were added to the Life Expectancy dataset to increase the amount of factors that could be considered. These columns came from the Santiation files initially discussed. The data was displaying some outliers when scaling the data for the machine learning model. The min-max scaling option was displaying some serious outliers. This was further demonstrated by the drafted Tableau visualizations that were created to check on this trend. The preliminary analysis yielded 5 main factors with the highest affect on Life Expectancy: BMI, Schooling, Commposition of Resources, Adult Morality, and Infant Deaths. Many of the visualizations used to better understand that data found a positive correlation between the increase in Santiation factors and the increase in Life Expectancy. 
 
+#### Project Timeline
+
+![Project_Timeline](https://user-images.githubusercontent.com/102566199/187097436-851339f6-3102-4f8c-9c02-b3678c454c93.png)
+
+#### Resources 
+
+a. Software: Jupyter Notebook, Tableau 2022.1, Google Slides, Git Bash, Slack, R
+
+b. Languages: Python 3.7
+
+c. Libraries: Pandas
+
+d. Machine Learning Models: Multiple Linear Regression
+
+e. Database: postgreSQL, pgAdmin, AWS
 
 *Communication Protocols*
 
@@ -69,7 +82,7 @@ Each group member has made a branch that they will submit changes from, which ar
 ------------------------------------------------------
 
 
-## Machine Learning Model
+#### Machine Learning Model
 
 - takes in data from provisional database
 - outputs label for input data
@@ -82,7 +95,7 @@ c. Splitting in to Testing and Training Sets: We split the training set away fro
 
 d. Explanation of Model Choice: The benefits for the multiple linear regression model is that it can be used to test multiple factors at once, but the biggest downside is that the visualizations that were generated with our data was not clean and easy to understand. 
 
-## Database Integration
+#### Database 
 
 - Sample data that mimics the expected final database structure or schema
 - Draft machine learning model is connected to the provisional database
@@ -93,7 +106,7 @@ b. Database connection: the database is connected to pgAdmin from AWS using the 
 
 c. Tables: There were tables created for every factor of Santiation being considered (ex. Handwashing, Santiation Services, Clean Water). This was used so that they could be displayed individually and then merged easily together
 
-## Dashboard
+#### Dashboard
 
 - Google Slides, Tableau, and HTML Webpage
 [Tableau Public Link](https://public.tableau.com/views/CapstoneProject_16619160092110/Storyboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
@@ -101,6 +114,4 @@ c. Tables: There were tables created for every factor of Santiation being consid
 The webpage will collect all of our information and display it for the final presentation. The interactive elements will include our data display, our map, the Tableau visualizations, and our presentation through Google Slides. Our webpage is hosted through GitHub Pages and is currently formatted to be scrollable in a mobile format, but will be tested for best display option. 
 
 
-## Project Timeline
 
-![Project_Timeline](https://user-images.githubusercontent.com/102566199/187097436-851339f6-3102-4f8c-9c02-b3678c454c93.png)
