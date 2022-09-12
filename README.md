@@ -10,7 +10,7 @@
 <br/>
 	
 * [Project Overview](#project-overview)
-   * [Topic Description](#Topic Description) 
+   * [Topic Description](#Topic-Description) 
    * [Questions We Asked](#questions-to-answer) 
 * [Timeline] (#project-timeline)
 * [Resources](#resources) 
@@ -20,23 +20,22 @@
 * [Data Analysis](#data-analysis)   
 * [Analysis Summary](#analysis-summary) 
 * [Recommendations for the Future](#future-recommendations)
+* [Links](#Links)
 	
 </details>
 
 
-## Presentation 
-
-[Link to Google Slides Presentation](https://docs.google.com/presentation/d/1YMWFu4EWW-TqpLAgISpPaUMpxWWm84ooTI_JyVNc4Eo/edit?usp=sharing)
-
 ## Project Overview
 
-#### Topic Description: Throughout the centuries, life expectancy has increased due to improvements made to the environment in which a population lives in. This increase in life expectancy can be accounted for be analyzing factors that might contribute to a healthier life, such as economical factors, social factors, and mortality factors. 
+#### Topic Description
 
-#### Description of Data Source: Both datasets come from the World Health Organization (WHO) and they cover the most recent health statistics of the world. One dataset  includes various indicators of health and the percentages of individuals with access to these factors. The second dataset includes information about how life expectancy has increased or decreased in countries around the world. 
+Throughout the centuries, life expectancy has increased due to improvements made to the environment in which a population lives in. This increase in life expectancy can be accounted for be analyzing factors that might contribute to a healthier life, such as economical factors, social factors, and mortality factors. 
 
-a. Life Expectancy (WHO) https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who 
+#### Description of Data Source
 
-b. World Health Statistics 2020 https://www.kaggle.com/datasets/utkarshxy/who-worldhealth-statistics-2020-complete?select=safelySanitization.csv
+Both datasets come from the World Health Organization (WHO) and they cover the most recent health statistics of the world. One dataset  includes various indicators of health and the percentages of individuals with access to these factors. The second dataset includes information about how life expectancy has increased or decreased in countries around the world. 
+
+
 
 ![World LE](https://user-images.githubusercontent.com/102566199/186822449-9c7a764e-22c5-400f-845a-daea252d9074.png)
 
@@ -56,7 +55,7 @@ c. Going forward, humanitarian efforts can be focused on what areas of the world
 
 #### Resources 
 
-a. Software: Jupyter Notebook, Tableau 2022.1, Google Slides, Git Bash, Slack, R
+a. Software: Jupyter Notebook, Tableau 2022.1, Google Slides, Canva, Git Bash, Slack, R
 
 b. Languages: Python 3.7
 
@@ -65,6 +64,8 @@ c. Libraries: Pandas
 d. Machine Learning Models: Multiple Linear Regression
 
 e. Database: postgreSQL, pgAdmin, AWS
+
+
 
 #### Communication Protocols
 
@@ -102,9 +103,7 @@ b. Database connection: the database is connected to pgAdmin from AWS using the 
 c. Tables: There were tables created for every factor of Santiation being considered (ex. Handwashing, Santiation Services, Clean Water). This was used so that they could be displayed individually and then merged easily together
 
 #### Dashboard
-
-- Google Slides, Tableau, and HTML Webpage
-[Tableau Public Link](https://public.tableau.com/views/CapstoneProject_16619160092110/Storyboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
+ 
 
 The webpage will collect all of our information and display it for the final presentation. The interactive elements will include our data display, our map, the Tableau visualizations, and our presentation through Google Slides. Our webpage is hosted through GitHub Pages and is currently formatted to be scrollable in a mobile format, but will be tested for best display option. 
 
@@ -114,3 +113,20 @@ The webpage will collect all of our information and display it for the final pre
 If our group was to redo this project, we would have immediately found additional data to fill in the datasets with any information that was missing. Many countries were missing population data, which was difficult to work with because entire countries would not be represented. Once this component was fixed, we would be able to join our datasets without so many null values being present. 
 
 The scaling of the data for the machine learning model was difficult to understand because outliers tended to skew the visualizations created. 
+
+
+#### Links
+
+- For the Google Slides Presentation: 
+
+[Link to Google Slides Presentation](https://docs.google.com/presentation/d/1YMWFu4EWW-TqpLAgISpPaUMpxWWm84ooTI_JyVNc4Eo/edit?usp=sharing)
+
+- For the Tableau Visualizations:
+
+[Tableau Public Link](https://public.tableau.com/views/CapstoneProject_16619160092110/Storyboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+- World Health Organization Data: 
+
+[Life Expectancy (WHO)](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
+
+[World Health Statistics 2020](https://www.kaggle.com/datasets/utkarshxy/who-worldhealth-statistics-2020-complete?select=safelySanitization.csv)
