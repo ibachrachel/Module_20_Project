@@ -115,22 +115,23 @@ The scaling of the data for the machine learning model was difficult to understa
 
 #### Links
 
-- For the Google Slides Presentation: 
+*Presentation*
 
 [Link to Google Slides Presentation](https://docs.google.com/presentation/d/1YMWFu4EWW-TqpLAgISpPaUMpxWWm84ooTI_JyVNc4Eo/edit?usp=sharing)
 
-- For the Tableau Visualizations:
-
+*Tableau Visualizations*
 [Tableau Public Link](https://public.tableau.com/views/CapstoneProject_16619160092110/Storyboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-- World Health Organization Data: 
-
+*Datasets Used*
 [Life Expectancy (WHO)](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 
 [World Health Statistics 2020](https://www.kaggle.com/datasets/utkarshxy/who-worldhealth-statistics-2020-complete?select=safelySanitization.csv)
 
-- Website Link:
+*Website*
 
 (Dashboard) []
+
+
+
 
 [To Navigate to the Top](#Life-Expectancy-Analysis-using-Linear-Regression)
