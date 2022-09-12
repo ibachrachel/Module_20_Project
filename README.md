@@ -1,6 +1,29 @@
 # Final Project: Collaborate Capstone
 ### Group Number 5: Saturday Night Five
 
+## ![#2874A6 ](https://via.placeholder.com/15/2874A6/2874A6.png) Table of Contents 
+<details>
+  <summary>Click to expand or hide</summary>
+
+<br/>
+	
+* [Project Overview](#project-overview)
+   * [Project Description](#project-description) 
+   * [Why we selected this project](#why-we-selected-this-project) 
+   * [Questions we hope to answer with the data](#questions-we-hope-to-answer-with-the-data) 
+* [Resources](#resources) 
+* [Communication Resources](#communication-resources)    
+* [Data Visualizations](#data-visualizations) 
+   * [Housing values, housing inventory, and population in July 2021](#housing-values-housing-inventory-and-population-in-july-2021)
+   * [Four additional visualizations and four insights from housing data](#four-additional-visualizations-and-four-insights-from-the-housing-data) 
+* [Database](#database)
+* [Data Analysis](#data-analysis)   
+* [Analysis Summary](#analysis-summary) 
+* [Future Perspective](#future-perspective)
+* [Links](#links)
+	
+</details>
+
 ## Presentation 
 
 [Link to Google Slides Presentation](https://docs.google.com/presentation/d/1YMWFu4EWW-TqpLAgISpPaUMpxWWm84ooTI_JyVNc4Eo/edit?usp=sharing)
