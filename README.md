@@ -8,19 +8,16 @@
 <br/>
 	
 * [Project Overview](#project-overview)
-   * [Why we selected this project](#reason-for-topic) 
-   * [Questions we hope to answer with the data](#questions-to-answer) 
+   * [Topic Description](#Topic Description) 
+   * [Questions We Asked](#questions-to-answer) 
 * [Timeline] (#project-timeline)
 * [Resources](#resources) 
 * [Communication Resources](#communication-protocols)    
 * [Data Visualizations](#data-visualizations) 
-   * [Housing values, housing inventory, and population in July 2021](#housing-values-housing-inventory-and-population-in-july-2021)
-   * [Four additional visualizations and four insights from housing data](#four-additional-visualizations-and-four-insights-from-the-housing-data) 
 * [Database](#database)
 * [Data Analysis](#data-analysis)   
 * [Analysis Summary](#analysis-summary) 
 * [Future Perspective](#future-perspective)
-* [Links](#links)
 	
 </details>
 
@@ -31,7 +28,7 @@
 
 ## Project Overview
 
-#### Reason for Topic: Throughout the centuries, life expectancy has increased due to improvements made to the environment in which a population lives in. This increase in life expectancy can be accounted for be analyzing factors that might contribute to a healthier life, such as economical factors, social factors, and mortality factors. 
+#### Topic Description: Throughout the centuries, life expectancy has increased due to improvements made to the environment in which a population lives in. This increase in life expectancy can be accounted for be analyzing factors that might contribute to a healthier life, such as economical factors, social factors, and mortality factors. 
 
 #### Description of Data Source: Both datasets come from the World Health Organization (WHO) and they cover the most recent health statistics of the world. One dataset  includes various indicators of health and the percentages of individuals with access to these factors. The second dataset includes information about how life expectancy has increased or decreased in countries around the world. 
 
@@ -50,9 +47,6 @@ b. Out of the countries with life expectancy changes, which factors affected thi
 
 c. Going forward, humanitarian efforts can be focused on what areas of the world? And, what factors showed the most effect on world health. 
 
-- Data Exploration: 193 countries were represented in the dataset, while 195 exist in the world. The only two that are not recognized will NOT affect the analysis. Rows that were found to have high amounts of null values were dropped. Data was converted to a long format to allow for easy merging. All the countries have multiple years that are considered, which allows a relationship between Life Expectancy and other factors to be displayed throughout time. Running some initial analysis showed that there was high collinearity among some rows such as: infant deaths and Morality under 5. This is displayed with a resulting value of a collinearity of over 0.9 and a heat map showing that there were representing too much of the same data, which is reasonable for the two factors. 
-
-- Data Analysis: While building the data analysis, columsn were added to the Life Expectancy dataset to increase the amount of factors that could be considered. These columns came from the Santiation files initially discussed. The data was displaying some outliers when scaling the data for the machine learning model. The min-max scaling option was displaying some serious outliers. This was further demonstrated by the drafted Tableau visualizations that were created to check on this trend. The preliminary analysis yielded 5 main factors with the highest affect on Life Expectancy: BMI, Schooling, Commposition of Resources, Adult Morality, and Infant Deaths. Many of the visualizations used to better understand that data found a positive correlation between the increase in Santiation factors and the increase in Life Expectancy. 
 
 #### Project Timeline
 
@@ -97,8 +91,12 @@ d. Explanation of Model Choice: The benefits for the multiple linear regression 
 
 #### Database 
 
-- Sample data that mimics the expected final database structure or schema
-- Draft machine learning model is connected to the provisional database
+![Database Schema](https://user-images.githubusercontent.com/102566199/189573147-f648a7cd-2e45-493d-8c5a-d4f9ad68616b.png)
+
+
+- Data Exploration: 193 countries were represented in the dataset, while 195 exist in the world. The only two that are not recognized will NOT affect the analysis. Rows that were found to have high amounts of null values were dropped. Data was converted to a long format to allow for easy merging. All the countries have multiple years that are considered, which allows a relationship between Life Expectancy and other factors to be displayed throughout time. Running some initial analysis showed that there was high collinearity among some rows such as: infant deaths and Morality under 5. This is displayed with a resulting value of a collinearity of over 0.9 and a heat map showing that there were representing too much of the same data, which is reasonable for the two factors. 
+
+- Data Analysis: While building the data analysis, columsn were added to the Life Expectancy dataset to increase the amount of factors that could be considered. These columns came from the Santiation files initially discussed. The data was displaying some outliers when scaling the data for the machine learning model. The min-max scaling option was displaying some serious outliers. This was further demonstrated by the drafted Tableau visualizations that were created to check on this trend. The preliminary analysis yielded 5 main factors with the highest affect on Life Expectancy: BMI, Schooling, Commposition of Resources, Adult Morality, and Infant Deaths. Many of the visualizations used to better understand that data found a positive correlation between the increase in Santiation factors and the increase in Life Expectancy. 
 
 a. Static Data Storage: a combination of AWS and pgAdmin are used to create a solid database to pull from 
 
