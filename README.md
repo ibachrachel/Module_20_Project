@@ -35,9 +35,6 @@ Throughout the centuries, life expectancy has increased due to improvements made
 
 Both datasets come from the World Health Organization (WHO) and they cover the most recent health statistics of the world. One dataset  includes various indicators of health and the percentages of individuals with access to these factors. The second dataset includes information about how life expectancy has increased or decreased in countries around the world. 
 
-![World LE](https://user-images.githubusercontent.com/102566199/186822449-9c7a764e-22c5-400f-845a-daea252d9074.png)
-
-
 #### Questions to Answer
  
 a. Which countries have an increase in life expectancy? Which countries did not?
