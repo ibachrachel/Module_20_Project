@@ -126,7 +126,7 @@ The scaling of the data for the machine learning model was difficult to understa
 [Link to Google Slides Presentation](https://docs.google.com/presentation/d/1YMWFu4EWW-TqpLAgISpPaUMpxWWm84ooTI_JyVNc4Eo/edit?usp=sharing)
 
 *Tableau Visualizations*
-[Tableau Public Link](https://public.tableau.com/views/CapstoneProject_16619160092110/Storyboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Tableau Public Link](https://public.tableau.com/app/profile/theodora.nutaitis.lopez/viz/LifeExpectancyAnalysis_16619270458320/LifeExpectancyAnalysis)
 
 *Datasets Used*
 [Life Expectancy (WHO)](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
@@ -141,9 +141,3 @@ The scaling of the data for the machine learning model was difficult to understa
 
 
 [To Navigate to the Top](#Life-Expectancy-Analysis-using-Linear-Regression)
-
-
-
-[Link to Tableau Presentation](https://public.tableau.com/app/profile/theodora.nutaitis.lopez/viz/LifeExpectancyAnalysis_16619270458320/LifeExpectancyAnalysis)
-
-![Current Webpage](https://user-images.githubusercontent.com/102566199/186820770-9eef7019-acc3-45ad-b236-ee10b6876c04.png)
