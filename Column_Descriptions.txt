@@ -19,11 +19,11 @@
 "Income composition": Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
 "Schooling": The average number of completed years of education of a population  (includes pre-school through higher education)
 
-## basic_sani.csv
+## basic_sanitation.csv
 "Basic_Sanitation" denotes the % of the population using at least basic sanitation services, that is, improved sanitation facilities that are not shared with other households. This indicator encompasses both people using basic sanitation services as well as those using safely managed sanitation services (below). Improved sanitation facilities include flush/pour flush toilets connected to piped sewer systems, septic tanks or pit latrines; pit latrines with slabs (including ventilated pit latrines), and composting toilets.
 
-## safe_sani.csv
-"Safe_Sani" denotes % of the population using an improved sanitation facility that is not shared with other households **and where excreta are safely disposed of in situ or treated off site.** Improved sanitation facilities include flush/pour flush to piped sewer systems, septic tanks or pit latrines; pit latrines with slabs (including ventilated pit latrines), and composting toilets.
+## safe_sanitation.csv
+"Safe_Sanitation" denotes % of the population using an improved sanitation facility that is not shared with other households **and where excreta are safely disposed of in situ or treated off site.** Improved sanitation facilities include flush/pour flush to piped sewer systems, septic tanks or pit latrines; pit latrines with slabs (including ventilated pit latrines), and composting toilets.
 
 ## drinking_water.csv
 "Drinking_Water" denotes % of the Population using at least basic drinking water services
