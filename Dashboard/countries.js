@@ -1,79 +1,310 @@
 // An array containing Data for the top and bottom 25 countries for life expectancy in 2022.
 
 let countries = [{
+  country: "Afghanistan",
+  location: [33.93911, 67.70995],
+  life_expectancy: 63.2,
+  drinking_water: 28,
+  hand_washing: 38,
+  safe_sanitation: 0
+},
+{
+  country: "Albania",
+  location: [41.15333, 20.16833],
+  life_expectancy: 78,
+  drinking_water: 71,
+  hand_washing: 0,
+  safe_sanitation: 48
+},
+{
+  country: "Algeria",
+  location: [28.03389, 1.65963],
+  life_expectancy: 77.1
+},
+{
   country: "Angola",
   location: [-11.20269, 17.87389],
-  life_expectancy: 62.22
+  life_expectancy: 63.1
+},
+{
+  country: "Antigua and Barbuda",
+  location: [17.06082, -61.79643],
+  life_expectancy: 76.5
+},
+{
+  country: "Argentina",
+  location: [-38.4161, -63.61667],
+  life_expectancy: 76.6
+},
+{
+  country: "Armenia",
+  location: [40.0691, 45.03819],
+  life_expectancy: 76
 },
 {
   country: "Australia",
   location: [-25.2744, 133.77513],
-  life_expectancy: 83.94
+  life_expectancy: 83
+},
+{
+  country: "Austria",
+  location: [47.516231, 14.550072],
+  life_expectancy: 81.6
+},
+{
+  country: "Azerbaijan",
+  location: [40.14311, 47.57693],
+  life_expectancy: 71.4
+},
+{
+  country: "Bahamas",
+  location: [25.03428, -77.39628],
+  life_expectancy: 73.2
+},
+{
+  country: "Bahrain",
+  location: [25.93041, 50.63777],
+  life_expectancy: 75.2
+},
+{
+  country: "Bangladesh",
+  location: [23.68499, 90.35633],
+  life_expectancy: 74.3
+},
+{
+  country: "Barbados",
+  location: [13.19389, -59.5432],
+  life_expectancy: 76
+},
+{
+  country: "Belarus",
+  location: [53.70981, 27.95339],
+  life_expectancy: 74.8
 },
 {
   country: "Belgium",
   location: [50.50389, 4.46994],
-  life_expectancy: 82.17
+  life_expectancy: 84.1
+},
+{
+  country: "Belize",
+  location: [17.18988, -88.49765],
+  life_expectancy: 74.4
 },
 {
   country: "Benin",
   location: [9.30769, 2.31583],
-  life_expectancy: 62.84
+  life_expectancy: 63.4
+},
+{
+  country: "Bhutan",
+  location: [27.51416, 90.4336],
+  life_expectancy: 73.1
+},
+{
+  country: "Bolivia",
+  location: [-16.29015, -63.58865],
+  life_expectancy: 72.1
+},
+{
+  country: "Bosnia and Herzegovina",
+  location: [43.91589, 17.67908],
+  life_expectancy: 76.8
+},
+{
+  country: "Botswana",
+  location: [-22.32847, 24.68487],
+  life_expectancy: 62.2
+},
+{
+  country: "Brazil",
+  location: [-14.235, -51.92528],
+  life_expectancy: 75.9
+},
+{
+  country: "Brunei Darussalam",
+  location: [4.53528, 114.72767],
+  life_expectancy: 74.3
+},
+{
+  country: "Bulgaria",
+  location: [42.73388, 25.48583],
+  life_expectancy: 75.1
 },
 {
   country: "Burkina Faso",
   location: [12.23833, -1.56159],
-  life_expectancy: 62.98
+  life_expectancy: 62.7
 },
 {
   country: "Burundi",
   location: [-3.37306, 29.91889],
-  life_expectancy: 62.71
+  life_expectancy: 63.8
+},
+{
+  country: "Cabo Verde",
+  location: [16.002082, -24.013197],
+  life_expectancy: 74
+},
+{
+  country: "Cambodia",
+  location: [12.56568, 104.99097],
+  life_expectancy: 70.1
 },
 {
   country: "Cameroon",
   location: [7.36972, 12.35472],
-  life_expectancy: 60.32
+  life_expectancy: 62.4
 },
 {
   country: "Canada",
   location: [56.13037, -106.34677],
-  life_expectancy: 82.96
+  life_expectancy: 82.2
 },
 {
   country: "Central African Republic",
   location: [6.61111, 20.93944],
-  life_expectancy: 54.36
+  life_expectancy: 53.1
 },
 {
   country: "Chad",
   location: [15.45417, 18.73221],
-  life_expectancy: 55.17
+  life_expectancy: 59.6
+},
+{
+  country: "Chile",
+  location: [-35.67515, -71.54297],
+  life_expectancy: 80.7
+}, 
+{
+  country: "China",
+  location: [35.86166, 104.1954],
+  life_expectancy: 77.4
+},
+{
+  country: "Colombia",
+  location: [4.57087, -74.29733],
+  life_expectancy: 79.3
+},
+{
+  country: "Comoros",
+  location: [-11.875001, 43.872219],
+  life_expectancy: 67.4
+},
+{
+  country: "Congo",
+  location: [-0.228021,15.827659],
+  life_expectancy: 64.7
 },
 {
   country: "Cote d'Ivoire",
   location: [7.53999, -5.54708],
-  life_expectancy: 58.75
+  life_expectancy: 62.9
+},
+{
+  country: "Croatia",
+  location: [45.1, 15.2],
+  life_expectancy: 78.6
+},
+{
+  country: "Cuba",
+  location: [21.52176, -77.78117],
+  life_expectancy: 77.8
+},
+{
+  country: "Cyprus",
+  location: [35.126413, 33.429859],
+  life_expectancy: 83.1
+},
+{
+  country: "Czechia",
+  location: [49.817492, 15.472962],
+  life_expectancy: 79.1
+},
+{
+  country: "Democratic People's Republic of Korea",
+  location: [40.33985, 127.51009],
+  life_expectancy: 72.6
+},
+{
+  country: "Democratic Republic of the Congo",
+  location: [-4.038333, 21.758664],
+  life_expectancy: 62.4
+},
+{
+  country: "Denmark",
+  location: [56.26392, 9.50179],
+  life_expectancy: 81.3
+},
+{
+  country: "Djibouti",
+  location: [11.825138,42.590275],
+  life_expectancy: 65.8
+},
+{
+  country: "Dominican Republic",
+  location: [18.73569, -70.16265],
+  life_expectancy: 72.8
+},
+{
+  country: "Ecuador",
+  location: [-1.83124, -78.1834],
+  life_expectancy: 78.4
+},
+{
+  country: "Egypt",
+  location: [26.82055, 30.8025],
+  life_expectancy: 71.8
+},
+{
+  country: "El Salvador",
+  location: [13.79419, -88.89653],
+  life_expectancy: 75
 },
 {
   country: "Equatorial Guinea",
   location: [1.6508, 10.2679],
-  life_expectancy: 59.82
+  life_expectancy: 62.2
+},
+{
+  country: "Eritrea",
+  location: [15.179384, 39.782334],
+  life_expectancy: 64.1
+},
+{
+  country: "Estonia",
+  location: [58.59527, 25.01361],
+  life_expectancy: 78.9
+},
+{
+  country: "Ethiopia",
+  location: [9.145, 40.48967],
+  life_expectancy: 68.7
+},
+{
+  country: "Fiji",
+  location: [-16.57819, 179.41441],
+  life_expectancy: 68
 },
 {
   country: "Finland",
   location: [61.92411, 25.74815],
-  life_expectancy: 82.48
+  life_expectancy: 81.6
 },
 {
   country: "France",
   location: [46.22764, 2.21375],
-  life_expectancy: 83.13
+  life_expectancy: 82.5
+},
+{
+  country: "Gabon",
+  location: [-0.803689, 11.609444],
+  life_expectancy: 66.5
 },
 {
   country: "Gambia",
   location: [13.44318, -15.31014],
-  life_expectancy: 63.26
+  life_expectancy: 65.5
 },
 {
   country: "Greece",
@@ -251,11 +482,6 @@ let countries = [{
   life_expectancy: 62.16
 },
 {
-  country: "Bangladesh",
-  location: [23.68499, 90.35633],
-  life_expectancy: 73.57
-},
-{
   country: "Seychelles",
   location: [-4.67957, 55.49198],
   life_expectancy: 73.74
@@ -276,11 +502,6 @@ let countries = [{
   life_expectancy: 73.91
 },
 {
-  country: "El Salvador",
-  location: [13.79419, -88.89653],
-  life_expectancy: 74.06
-},
-{
   country: "Micronesia",
   location: [7.42555, 150.55081],
   life_expectancy: 74.08
@@ -291,19 +512,9 @@ let countries = [{
   life_expectancy: 74.24
 },
 {
-  country: "Bahamas",
-  location: [25.03428, -77.39628],
-  life_expectancy: 74.28
-},
-{
   country: "Paraguay",
   location: [-23.4425, -58.44383],
   life_expectancy: 74.59
-},
-{
-  country: "Dominican Republic",
-  location: [18.73569, -70.16265],
-  life_expectancy: 74.65
 },
 {
   country: "Jamaica",
@@ -321,16 +532,6 @@ let countries = [{
   life_expectancy: 75.05
 },
 {
-  country: "Belize",
-  location: [17.18988, -88.49765],
-  life_expectancy: 75.09
-},
-{
-  country: "Belarus",
-  location: [53.70981, 27.95339],
-  life_expectancy: 75.2
-},
-{
   country: "Nicaragua",
   location: [12.86542, -85.20723],
   life_expectancy: 75.23
@@ -341,19 +542,9 @@ let countries = [{
   life_expectancy: 75.41
 },
 {
-  country: "Bulgaria",
-  location: [42.73388, 25.48583],
-  life_expectancy: 75.49
-},
-{
   country: "Mauritius",
   location: [-20.3484, 57.55215],
   life_expectancy: 75.51
-},
-{
-  country: "Armenia",
-  location: [40.0691, 45.03819],
-  life_expectancy: 75.55
 },
 {
   country: "Saudi Arabia",
@@ -386,36 +577,6 @@ let countries = [{
   life_expectancy: 72.99
 },
 {
-  country: "China",
-  location: [35.86166, 104.1954],
-  life_expectancy: 77.47
-},
-{
-  country: "Argentina",
-  location: [-38.4161, -63.61667],
-  life_expectancy: 77.17
-},
-{
-  country: "Brazil",
-  location: [-14.235, -51.92528],
-  life_expectancy: 76.57
-},
-{
-  country: "Ecuador",
-  location: [-1.83124, -78.1834],
-  life_expectancy: 76.57
-},
-{
-  country: "Colombia",
-  location: [4.57087, -74.29733],
-  life_expectancy: 77.87
-},
-{
-  country: "Chile",
-  location: [-35.67515, -71.54297],
-  life_expectancy: 80.74
-}, 
-{
   country: "Peru",
   location: [-9.18997, -75.01515],
   life_expectancy: 77.44
@@ -431,19 +592,9 @@ let countries = [{
   life_expectancy: 64.99
 },
 {
-  country: "Afghanistan",
-  location: [33.93911, 67.70995],
-  life_expectancy: 65.98
-},
-{
   country: "Pakistan",
   location: [30.37532, 69.34512],
   life_expectancy: 67.79
-},
-{
-  country: "Fiji",
-  location: [-16.57819, 179.41441],
-  life_expectancy: 67.91
 },
 {
   country: "Turkmenistan",
@@ -451,7 +602,7 @@ let countries = [{
   life_expectancy: 68.63
 },
 {
-  country: "Laos",
+  country: "Lao People's Democratic Republic",
   location: [19.85627, 102.4955],
   life_expectancy: 68.89
 },
@@ -479,11 +630,6 @@ let countries = [{
   country: "Mongolia",
   location: [46.8625, 103.84666],
   life_expectancy: 70.42
-},
-{
-  country: "Cambodia",
-  location: [12.56568, 104.99097],
-  life_expectancy: 70.53
 },
 {
   country: "Vanuatu",
@@ -551,19 +697,9 @@ let countries = [{
   life_expectancy: "72.34"
 },
 {
-  country: "Bolivia",
-  location: [-16.29015, -63.58865],
-  life_expectancy: 72.35
-},
-{
   country: "Ukraine",
   location: [48.37943, 31.16558],
   life_expectancy: 72.5
-},
-{
-  country: "Egypt",
-  location: [26.82055, 30.8025],
-  life_expectancy: 72.54
 },
 {
   country: "Grenada",
@@ -571,24 +707,9 @@ let countries = [{
   life_expectancy: 72.59
 },
 {
-  country: "Bhutan",
-  location: [27.51416, 90.4336],
-  life_expectancy: 72.77
-},
-{
-  country: "North Korea",
-  location: [40.33985, 127.51009],
-  life_expectancy: 72.89
-},
-{
   country: "Russia",
   location: [61.52401, 105.31876],
   life_expectancy: 72.99
-},
-{
-  country: "Azerbaijan",
-  location: [40.14311, 47.57693],
-  life_expectancy: 73.33
 },
 {
   country: "Solomon Islands",
@@ -599,11 +720,6 @@ let countries = [{
   country: "Libya",
   location: [26.3351, 17.22833],
   life_expectancy: 73.44
-},
-{
-  country: "Bangladesh",
-  location: [23.68499, 90.35633],
-  life_expectancy: 73.57
 },
 {
   country: "Seychelles",
@@ -626,11 +742,6 @@ let countries = [{
   life_expectancy: 73.91
 },
 {
-  country: "El Salvador",
-  location: [13.79419, -88.89653],
-  life_expectancy: 74.06
-},
-{
   country: "Micronesia",
   location: [7.42555, 150.55081],
   life_expectancy: 74.08
@@ -640,20 +751,11 @@ let countries = [{
   location: [42.31541, 43.35689],
   life_expectancy: 74.24
 },
-{
-  country: "Bahamas",
-  location: [25.03428, -77.39628],
-  life_expectancy: 74.28
-},
+
 {
   country: "Paraguay",
   location: [-23.4425, -58.44383],
   life_expectancy: 74.59
-},
-{
-  country: "Dominican Republic",
-  location: [18.73569, -70.16265],
-  life_expectancy: 74.65
 },
 {
   country: "Jamaica",
@@ -671,16 +773,6 @@ let countries = [{
   life_expectancy: 75.05
 },
 {
-  country: "Belize",
-  location: [17.18988, -88.49765],
-  life_expectancy: 75.09
-},
-{
-  country: "Belarus",
-  location: [53.70981, 27.95339],
-  life_expectancy: 75.2
-},
-{
   country: "Nicaragua",
   location: [12.86542, -85.20723],
   life_expectancy: 75.23
@@ -691,19 +783,9 @@ let countries = [{
   life_expectancy: 75.41
 },
 {
-  country: "Bulgaria",
-  location: [42.73388, 25.48583],
-  life_expectancy: 75.49
-},
-{
   country: "Mauritius",
   location: [-20.3484, 57.55215],
   life_expectancy: 75.51
-},
-{
-  country: "Armenia",
-  location: [40.0691, 45.03819],
-  life_expectancy: 75.55
 },
 {
   country: "Saudi Arabia",
@@ -734,11 +816,6 @@ let countries = [{
   country: "Syria",
   location: [34.80207, 38.99682],
   life_expectancy: 76.06
-},
-{
-  country: "Brunei",
-  location: [4.53528, 114.72767],
-  life_expectancy: 76.35
 },
 {
   country: "Lithuania",
@@ -796,34 +873,14 @@ let countries = [{
   life_expectancy: 77.43
 },
 {
-  country: "Antigua and Barbuda",
-  location: [17.06082, -61.79643],
-  life_expectancy: 77.47
-},
-{
-  country: "Algeria",
-  location: [28.03389, 1.65963],
-  life_expectancy: 77.5
-},
-{
   country: "Sri Lanka",
   location: [7.87305, 80.7718],
   life_expectancy: 77.56
 },
 {
-  country: "Bahrain",
-  location: [25.93041, 50.63777],
-  life_expectancy: 77.73
-},
-{
   country: "Thailand",
   location: [15.87003, 100.99254],
   life_expectancy: 77.74
-},
-{
-  country: "Bosnia and Herzegovina",
-  location: [43.91589, 17.67908],
-  life_expectancy: 77.93
 },
 {
   country: "Slovakia",
@@ -861,29 +918,9 @@ let countries = [{
   life_expectancy: 78.58
 },
 {
-  country: "Albania",
-  location: [41.15333, 20.16833],
-  life_expectancy: 78.96
-},
-{
-  country: "Croatia",
-  location: [45.1, 15.2],
-  life_expectancy: 79.02
-},
-{
   country: "Panama",
   location: [8.53798, -80.78213],
   life_expectancy: 79.1
-},
-{
-  country: "Cuba",
-  location: [21.52176, -77.78117],
-  life_expectancy: 79.18
-},
-{
-  country: "Estonia",
-  location: [58.59527, 25.01361],
-  life_expectancy: 79.18
 },
 {
   country: "Lebanon",
@@ -896,11 +933,6 @@ let countries = [{
   life_expectancy: 79.27
 },
 {
-  country: "Barbados",
-  location: [13.19389, -59.5432],
-  life_expectancy: 79.64
-},
-{
   country: "Mayotte",
   location: [-12.8275, 45.16625],
   life_expectancy: 79.85
@@ -911,16 +943,6 @@ let countries = [{
   life_expectancy: 79.89
 },
 {
-  country: "Algeria",
-  location: [28.03389, 1.65963],
-  life_expectancy: 77.5
-},
-{
-  country: "DR Congo",
-  location: [-4.038333, 21.758664],
-  life_expectancy: 61.6
-},
-{
   country: "Sudan",
   location: [12.86281, 30.21764],
   life_expectancy: 66.09
@@ -929,16 +951,6 @@ let countries = [{
   country: "Tanzania",
   location: [-6.36903, 34.88882],
   life_expectancy: 66.39
-},
-{
-  country: "Ethiopia",
-  location: [9.145, 40.48967],
-  life_expectancy: 67.81
-},
-{
-  country: "Botswana",
-  location: [-22.32847, 24.68487],
-  life_expectancy: 69.86
 },
 {
   country: "Senegal",
@@ -986,11 +998,6 @@ let countries = [{
   life_expectancy: 81.88
 },
 {
-  country: "Czechia",
-  location: [49.817492, 15.472962],
-  life_expectancy: 79.85
-},
-{
   country: "United Kingdom",
   location: [55.37805, -3.43597],
   life_expectancy: 81.77
@@ -999,11 +1006,6 @@ let countries = [{
   country: "Sweden",
   location: [60.12816, 18.6435],
   life_expectancy: 83.33
-},
-{
-  country: "Denmark",
-  location: [56.26392, 9.50179],
-  life_expectancy: 81.4
 },
 {
   country: "Greece",
