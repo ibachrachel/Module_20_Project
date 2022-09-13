@@ -7,7 +7,7 @@
 "percentage expenditure": Expenditure on health as a percentage of Gross Domestic Product per capita(%)
 "Hepatitis B": Hepatitis B (HepB) immunization coverage among 1-year-olds (%)
 "Measles": Measles - number of reported cases per 1000 population
-"BMI": Average Body Mass Index of entire population
+"BMI": Prevelance of overweight adults (% of adult population with BMI >= 25)
 "under-five deaths": Number of under-five deaths per 1000 population
 "Polio": Polio (Pol3) immunization coverage among 1-year-olds (%)
 "Total Expenditure": General government expenditure on health as a percentage of total government expenditure (%)
