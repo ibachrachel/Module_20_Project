@@ -133,9 +133,7 @@ The scaling of the data for the machine learning model was difficult to understa
 
 [World Health Statistics 2020](https://www.kaggle.com/datasets/utkarshxy/who-worldhealth-statistics-2020-complete?select=safelySanitization.csv)
 
-
-
-[Dashboard] (https://theodoranell.github.io/)
+[Dashboard] (https://theodoranell.github.io/) 
 
 
 
