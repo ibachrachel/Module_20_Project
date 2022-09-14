@@ -60388,5 +60388,5 @@ var data = [
     total_expenditure: "NULL",
     income_composition: "0.507",
     emissions: "0.8997699"
-  },
+  }
 ]

@@ -13,14 +13,36 @@
   padding-right:.5em;
 }
 
+iframe {
+  padding-left:.5em;
+  padding-right:.5em;
+}
+
+
 #filter {
-  color: black
+  color: black;
 }
 
 .divScroll {
   overflow:scroll;
   height:800px;
   width:1000px;
+}
+
+table {
+  text-align: left;
+  position: relative;
+}
+
+th {
+  background: rgb(39, 40, 46);
+  position: sticky;
+  top: 0;
+}
+
+#managerTable {
+  max-height: 500px;
+  overflow: auto;
 }
 
 html,

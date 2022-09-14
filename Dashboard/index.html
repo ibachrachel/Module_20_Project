@@ -23,7 +23,7 @@
 
 <body>
   <br>
-  <div class="container" id="container">
+  <div class="container">
     <div class="row">
       <div class="col-md-12 mx-auto text-center">
         <img src="https://cdn.pixabay.com/photo/2012/12/20/10/12/align-fingers-71282_960_720.jpg" class="img-fluid">
@@ -32,16 +32,18 @@
         </div>
       </div>
     </div>
+  </div>
     <br>
-    <div class="row">
-      <div class="col-md-12 mx-auto text-center">
+  <div class="container-fluid">
+    <div class="row" id="text">
+      <div class="col-md-12 mx-auto text-center p-2">
         <h3>Over the past century, human life expectancy has greatly increased due to advancements in science, technology, and cultural awareness of public health.
         But which factors have had the greatest impact? 
         We believe that answering this question could help to provide key insights for countless organizations all over the world that lead humanitarian efforts, government legislation, and infrastructure planning. </h3>
 
         <h3>The majority of the data used in this analysis comes from the World Health Organization.
-        The datasets contain metrics on a wide variety of health-related and economic factors for over 200 countries during the years 2001-2017. 
-        Our goal is to create a machine learning model to accurately predict life expectancy based on these metrics and determine which features have the highest importance. </h3>
+        The datasets contain metrics on a wide variety of health-related and economic factors for 183 countries during the years 2005-2015. 
+        Our goal was to create a machine learning model to accurately predict life expectancy based on these metrics and determine which features have the highest importance. </h3>
         <br>
         <br>
       </div>
@@ -50,11 +52,11 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 mx-auto text-center">
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQud57jJi5mIbaQHBShnfFiiDjskjHTdU7FAnqLw6tHuuuF_iXUufNlYUE7mgKSI23whGwbySzSTX_P/embed?start=false&loop=true&delayms=30000" frameborder="0" width="1050" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQud57jJi5mIbaQHBShnfFiiDjskjHTdU7FAnqLw6tHuuuF_iXUufNlYUE7mgKSI23whGwbySzSTX_P/embed?start=false&loop=true&delayms=30000" frameborder="0" width="1080" height="650" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
         <br>
         <br>
         <iframe src="https://public.tableau.com/views/LifeExpectancy_16629782555020/LifeExpectancyAnalysis?:showVizHome=no&:embed=true"
-        width="1080" height="1080"></iframe>
+        width="1070" height="1020"></iframe>
       </div>
     </div>
   </div>
@@ -113,14 +115,16 @@
         </div>
         <div class="col-md-9">
           <div class="divScroll">
-            <table class="table" id="table">
-                <thead>
-                  <tr>
+          <table class="table" id="table">
+            <div id="managertable" >
+              <thead>
+                 <tr>
                     <th>Country</th>
                     <th>Continent</th>
                     <th>Year</th>
                     <th>Status</th>
                     <th>Life Expectancy</th>
+                    <th>Population</th>
                     <th>Adult Mortality <br> <h6>(probability of dying between 15 and 60 years old) per 1000 population</h6></th>
                     <th>Infant Deaths <br> <h6>per 1000 population</h6></th>
                     <th>Under-5 Deaths <h6>per 1000 population</h6></th>
@@ -133,6 +137,7 @@
                     <th>Alcohol<h6>per capita (15+) consumption (in litres of pure alcohol)</h6></th>
                     <th>Hepatitis<h6>Hep B immunization coverage among 1-year-olds (%)</h6></th>
                     <th>Measles<h6>number of reported cases per 1000 population</h6></th>
+                    <th>Diptheria<h6>DTP3 immunization coverage among 1-year-olds (%)</h6></th>
                     <th>Polio<h6>Pol3 immunization coverage among 1-year-olds (%)</h6></th>
                     <th>HIV/AIDS<h6>deaths per 1 000 live births HIV/AIDS (0-4 years)</h6></th>
                     <th>Thinness 5-9 Years<h6>Prevalence of thinness among children 5-9 (%)</h6></th>
@@ -141,10 +146,15 @@
                     <th>Percentage Expenditure<h6>expenditure on health as a percentage of Gross Domestic Product per capita(%)</h6></th>
                     <th>Total Expenditure<h6>general government expenditure on health as a percentage of total government expenditure (%)</h6></th>
                     <th>Income Composition<h6>Human Development Index in terms of income composition of resources (index ranging from 0 to 1)</h6></th>
+                    <th>Emissions<h6>CO2 emissions (in metric tons per capita)</h6></th>
                   </tr>
                 </thead>
-                <tbody></tbody>
-              </table>
+                  <tbody>
+                  </tbody>
+                  </table>
+                    
+                </div>
+              </div>
             </div>
         </div>
     </div>
@@ -153,8 +163,11 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 mx-auto text-center">
-          <h4> DATA SOURCES: <a href="https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who" class="link-secondary">Life Expectancy </a>, 
-            <a href="https://www.kaggle.com/datasets/utkarshxy/who-worldhealth-statistics-2020-complete?select=safelySanitization.csv" class="link-secondary">World Health Statistics 2020 </a> </h4>
+          <h4> DATA SOURCES: <a href="https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who" class="link-secondary">WHO Life Expectancy Factors 2000-2015 </a>, 
+            <a href="https://www.kaggle.com/datasets/utkarshxy/who-worldhealth-statistics-2020-complete" class="link-secondary">WHO World Health 2020 Complete Geo-Aanalysis </a>, 
+            <a href="https://www.who.int/publications/i/item/9789240051157" class="link-secondary">WHO World Health Statistics 2022 </a>,
+            <a href="https://worldpopulationreview.com/country-rankings/developed-countries" class="link-secondary">World Population Review: 2022 Developed/Developing Countries List </a>
+          </h4>
             <br>
           </div>
         </div>
