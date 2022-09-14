@@ -13,8 +13,14 @@
   padding-right:.5em;
 }
 
+iframe {
+  padding-left:.5em;
+  padding-right:.5em;
+}
+
+
 #filter {
-  color: black
+  color: black;
 }
 
 .divScroll {
