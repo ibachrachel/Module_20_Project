@@ -121,21 +121,21 @@ The scaling of the data for the machine learning model was difficult to understa
 
 #### Links
 
-*Presentation*
 
 [Link to Google Slides Presentation](https://docs.google.com/presentation/d/1YMWFu4EWW-TqpLAgISpPaUMpxWWm84ooTI_JyVNc4Eo/edit?usp=sharing)
 
-*Tableau Visualizations*
+
 [Tableau Public Link](https://public.tableau.com/views/CapstoneProject_16619160092110/Storyboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 *Datasets Used*
+
 [Life Expectancy (WHO)](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 
 [World Health Statistics 2020](https://www.kaggle.com/datasets/utkarshxy/who-worldhealth-statistics-2020-complete?select=safelySanitization.csv)
 
-*Website*
 
-(Dashboard) []
+
+(Dashboard) [https://theodoranell.github.io/]
 
 
 
