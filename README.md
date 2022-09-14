@@ -143,3 +143,4 @@ The scaling of the data for the machine learning model was difficult to understa
 [To Navigate to the Top](#Life-Expectancy-Analysis-using-Linear-Regression)
 
 
+
