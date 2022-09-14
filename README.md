@@ -135,7 +135,7 @@ The scaling of the data for the machine learning model was difficult to understa
 
 
 
-(Dashboard) [https://theodoranell.github.io/]
+[Dashboard] (https://theodoranell.github.io/)
 
 
 
