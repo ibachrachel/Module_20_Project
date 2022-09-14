@@ -1,3 +1,4 @@
+
 # Life Expectancy Analysis using Linear Regression
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Life_expectancy_world_map.PNG"  width="1000" height="400">
@@ -140,3 +141,5 @@ The scaling of the data for the machine learning model was difficult to understa
 
 
 [To Navigate to the Top](#Life-Expectancy-Analysis-using-Linear-Regression)
+	
+
