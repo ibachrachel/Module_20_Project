@@ -64,6 +64,6 @@ function getColor(le) {
 countryData.forEach(function(country) {
   console.log(country)
   L.circleMarker(country.location, styleInfo(country))
-  .bindPopup("<h2>" + country.country + "</h2> <hr> <h3> Life Expectancy:  " + country.life_expectancy + "</h3>")
+  .bindPopup("<h2>" + country.country + "</h2> <hr> <h3> Life Expectancy:  " + country.life_expectancy + "</h3> <hr> <h3> Drinking Water(%):  " + country.drinking_water + "</h3> <hr> <h3> Hand Washing(%):  " + country.hand_washing + "</h3> <hr> <h3> Safe Sanitation(%):  " + country.safe_sanitation + "</h3>")
   .addTo(map);
 });
