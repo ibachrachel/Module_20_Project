@@ -13,6 +13,16 @@
   padding-right:.5em;
 }
 
+#filter {
+  color: black
+}
+
+.divScroll {
+  overflow:scroll;
+  height:800px;
+  width:1000px;
+}
+
 html,
 body,
 #mapid {
