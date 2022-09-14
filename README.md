@@ -125,7 +125,7 @@ The scaling of the data for the machine learning model was difficult to understa
 [Link to Google Slides Presentation](https://docs.google.com/presentation/d/1YMWFu4EWW-TqpLAgISpPaUMpxWWm84ooTI_JyVNc4Eo/edit?usp=sharing)
 
 
-[Tableau Public Link](https://public.tableau.com/views/CapstoneProject_16619160092110/Storyboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Tableau Public Link](https://public.tableau.com/views/LifeExpectancy_16629782555020/LifeExpectancyAnalysis?:showVizHome=no&:embed=true)
 
 *Datasets Used*
 
