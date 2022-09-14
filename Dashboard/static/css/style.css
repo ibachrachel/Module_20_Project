@@ -1,0 +1,39 @@
+
+
+.center-top {
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgb(39, 40, 46);
+  font-family: 'Oswald', sans-serif; 
+  color: white;
+  font-size: 60px;
+  padding-left:.5em;
+  padding-right:.5em;
+}
+
+#filter {
+  color: black
+}
+
+.divScroll {
+  overflow:scroll;
+  height:800px;
+  width:1000px;
+}
+
+html,
+body,
+#mapid {
+  width: 100%;
+  height: 90%;
+  padding: 0;
+  background-color: rgb(39, 40, 46);
+  color: white;
+  max-width: 2000px;
+  max-height: 1000px;
+  padding-left: 8em;
+  padding-right: 8em;
+  margin: 0;
+}
