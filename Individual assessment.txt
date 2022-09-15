@@ -1,0 +1,15 @@
+## Module 20 Individual Assessment 
+
+
+### Self Assessment
+My main role in this project was to setup the database and perform the ETL process on the datasets. I also tried to help give input to the ML process through doing a parallel EDA process. Identifying issues in the data and presenting solutions was probably my biggest contribution to the team. The biggest thing I feel I failed to do was help/convince my team that we needed to ask a question of the data and what can the data do for us. In the end it felt like we were doing data science just to do data science. 
+
+
+### Team Assessment
+		Overall the team worked really well together and we all enjoyed our time together. Everyone worked to own their roles but were quick to jump in to help pick up slack of other roles when someone’s schedule was busy. Communicating via slack, email, and daily checks of our github helped us to stay connected. Getting the database setup sooner with a better automated ETL pipeline would have helped us stay organized better as we were duplicating and overriding each other's work in the beginning. We all were supportive and made contributions but I think it would have helped to identify a lead at the beginning of the project because sometimes we got stuck trying to decide on what direction we wanted to go in. 
+	
+### Summary of Project
+	Throughout the centuries, life expectancy has increased due to improvements made to the environment in which a population lives. This increase in life expectancy can be accounted for by analyzing factors that might contribute to a healthier life, such as economical factors, social factors, and mortality factors. The goal of our project was to be able to identify the effects of sanitation on worldwide life expectancy. We examined 193 countries within a decade period of 2005 to 2015.
+	We ended up using a Random Forest Regression model that had a 99% accuracy of predicting life expectancy. This high accuracy may be due to overfitting and more analysis should be done before justifying this model. Out of all the features we used to try to correlate to life expectancy, basic and safe sanitation had the largest effect.
+		
+
