@@ -13,7 +13,6 @@
 * [Project Overview](#project-overview)
    * [Topic Description](#Topic-Description) 
    * [Questions We Asked](#questions-to-answer) 
-* [Project Timeline] (#project-timeline)
 * [Resources](#resources) 
 * [Communication Protocols](#communication-protocols)    
 * [Database](#database)
